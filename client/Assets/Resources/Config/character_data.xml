@@ -1,0 +1,135 @@
+﻿<characters>
+  <!--
+        id 配置id
+        default_name 默认名字
+        resource_id 资源id
+        scale 缩放比例
+        walk_speed_x 移动速度
+        walk_speed_y 爬坡能力
+        low_fire_angle  最低攻击角度
+        high_fire_angle 最高攻击角度
+        fire_range      攻击距离(速度)
+
+        炮口位置
+        weapon_pos_x
+        weapon_pos_y
+
+        被攻击盒子左下角
+        be_attack_box_min_x
+        be_attack_box_min_y
+        被攻击盒子右上角
+        be_attack_box_max_x
+        be_attack_box_max_y
+        self_skill 自带技能
+        m_iHP        血
+        m_iMoveEnergy 蓝
+    -->
+  
+  <instruction id="100001" default_name="威震天"
+      resource_id="100001" scale="081"
+      walk_speed_x="3" walk_speed_y="4"
+      low_fire_angle="15" high_fire_angle="45" fire_range="1500"
+      weapon_pos_x="20" weapon_pos_y="40"
+     be_attack_box_min_x="-20" be_attack_box_min_y="0"
+      be_attack_box_max_x="20" be_attack_box_max_y="20"
+      self_skill="107"   m_iHP="400" m_iMoveEnergy="500" m_iAddEnergy ="10"
+        >
+    <state state_type="2" animation_name="IDLE0" total_frame="150">
+    </state>
+    <state state_type="3" animation_name="IDLE1" total_frame="30">
+    </state>
+    <state state_type="4" animation_name="IDLE2" total_frame="34">
+    </state>
+    <state state_type="5" animation_name="WALK" total_frame="30" >
+    </state>
+    <state state_type="7" animation_name="FIRE" total_frame="19">
+      <attack frame_index="10" attack_type="1" bomb_config_id="1" damage="60" center_damage="100"/>
+    </state>
+    <state state_type="8" animation_name="BE_ATTACK" total_frame="25">
+    </state>
+    <state state_type="9" animation_name="DEAD" total_frame="6">
+    </state>
+  </instruction>
+
+  <instruction id="200001" default_name="擎天柱"
+      resource_id="200001" scale="0.8"
+      walk_speed_x="3" walk_speed_y="4"
+     low_fire_angle="15" high_fire_angle="45" fire_range="1500"
+      weapon_pos_x="40" weapon_pos_y="40"
+     be_attack_box_min_x="-20" be_attack_box_min_y="0"
+      be_attack_box_max_x="20" be_attack_box_max_y="20"
+       self_skill="107"   m_iHP="400" m_iMoveEnergy="500" m_iAddEnergy ="20"
+        >
+    <state state_type="2" animation_name="IDLE0" total_frame="150">
+    </state>
+    <state state_type="3" animation_name="IDLE1" total_frame="45">
+    </state>
+    <state state_type="4" animation_name="IDLE2" total_frame="40">
+    </state>
+    <state state_type="5" animation_name="WALK" total_frame="16" >
+    </state>
+    <state state_type="7" animation_name="FIRE" total_frame="16">
+      <attack frame_index="10" attack_type="1" bomb_config_id="1" damage="60" center_damage="100"/>
+    </state>
+    <state state_type="8" animation_name="BE_ATTACK" total_frame="25">
+    </state>
+    <state state_type="9" animation_name="DEAD" total_frame="56">
+    </state>
+  </instruction>
+
+  <instruction id="300001" default_name="巧克力"
+     description="巧克力，移速较慢，开炮范围大，距离远。自带技能为火箭炮，可追踪敌方坦克造成伤害。"
+     resource_id="300001" scale="1"
+     walk_speed_x="2" walk_speed_y="4"
+     low_fire_angle="5" high_fire_angle="55" fire_range="2000"
+     weapon_pos_x="25" weapon_pos_y="65"
+      be_attack_box_min_x="-20" be_attack_box_min_y="0"
+     be_attack_box_max_x="20" be_attack_box_max_y="20"
+        self_skill="105"   m_iHP="400" m_iMoveEnergy="500" m_iAddEnergy ="30"
+        >
+    <state state_type="2" animation_name="IDLE0" total_frame="40">
+    </state>
+    <state state_type="3" animation_name="IDLE1" total_frame="40">
+    </state>
+    <state state_type="4" animation_name="IDLE2" total_frame="40">
+    </state>
+    <state state_type="5" animation_name="WALK" total_frame="40" >
+    </state>
+    <state state_type="7" animation_name="FIRE" total_frame="12">
+      <attack frame_index="10" attack_type="1" bomb_config_id="1" damage="60" center_damage="100"/>
+    </state>
+    <state state_type="8" animation_name="BE_ATTACK" total_frame="20">
+    </state>
+    <state state_type="9" animation_name="DEAD" total_frame="32">
+    </state>
+  </instruction>
+
+  <instruction id="400001" default_name="三线酒架"
+       description="三线酒架，移速快，开炮范围小，距离近。自带技能为三发炮，发出三炮散弹，可对一定爆炸范围坦克造成伤害。"
+       resource_id="400001" scale="1"
+       walk_speed_x="3" walk_speed_y="4"
+       low_fire_angle="15" high_fire_angle="45" fire_range="1500"
+       weapon_pos_x="35" weapon_pos_y="50"
+        be_attack_box_min_x="-20" be_attack_box_min_y="0"
+       be_attack_box_max_x="20" be_attack_box_max_y="20"
+           self_skill="102"   m_iHP="400" m_iMoveEnergy="500" m_iAddEnergy ="40"
+        >
+    <state state_type="2" animation_name="IDLE0" total_frame="40">
+    </state>
+    <state state_type="3" animation_name="IDLE1" total_frame="40">
+    </state>
+    <state state_type="4" animation_name="IDLE2" total_frame="40">
+    </state>
+    <state state_type="5" animation_name="WALK" total_frame="40" >
+    </state>
+    <state state_type="7" animation_name="FIRE" total_frame="13">
+      <attack frame_index="10" attack_type="1" bomb_config_id="1" damage="60" center_damage="100"/>
+    </state>
+    <state state_type="8" animation_name="BE_ATTACK" total_frame="20">
+    </state>
+    <state state_type="9" animation_name="DEAD" total_frame="21">
+    </state>
+  </instruction>
+  
+  
+</characters>

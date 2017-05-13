@@ -1,0 +1,272 @@
+
+TK00002.png
+size: 1024,256
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+daiji-1/待机1
+  rotate: false
+  xy: 952, 95
+  size: 70, 33
+  orig: 70, 33
+  offset: 0, 0
+  index: -1
+daiji-2/待机2-1
+  rotate: false
+  xy: 534, 119
+  size: 16, 40
+  orig: 16, 40
+  offset: 0, 0
+  index: -1
+daiji-2/待机2-2
+  rotate: false
+  xy: 775, 28
+  size: 46, 41
+  orig: 46, 41
+  offset: 0, 0
+  index: -1
+daiji/头
+  rotate: false
+  xy: 257, 2
+  size: 91, 39
+  orig: 91, 39
+  offset: 0, 0
+  index: -1
+daiji/履带
+  rotate: false
+  xy: 282, 43
+  size: 119, 33
+  orig: 119, 33
+  offset: 0, 0
+  index: -1
+daiji/炮管
+  rotate: false
+  xy: 734, 96
+  size: 54, 40
+  orig: 54, 40
+  offset: 0, 0
+  index: -1
+daiji/眼睛1
+  rotate: false
+  xy: 350, 18
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+daiji/眼睛2
+  rotate: false
+  xy: 823, 46
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+daiji/眼睛3
+  rotate: true
+  xy: 991, 161
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+daiji/眼睛4
+  rotate: false
+  xy: 823, 21
+  size: 30, 23
+  orig: 30, 23
+  offset: 0, 0
+  index: -1
+daiji/身体
+  rotate: false
+  xy: 130, 8
+  size: 125, 36
+  orig: 125, 36
+  offset: 0, 0
+  index: -1
+daiji/轱辘
+  rotate: false
+  xy: 422, 124
+  size: 110, 35
+  orig: 110, 35
+  offset: 0, 0
+  index: -1
+daojv/qipao0001
+  rotate: false
+  xy: 792, 193
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+daojv/qipao0004
+  rotate: false
+  xy: 901, 193
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+daojv/qipao0007
+  rotate: false
+  xy: 412, 61
+  size: 107, 61
+  orig: 107, 61
+  offset: 0, 0
+  index: -1
+daojv/手1
+  rotate: false
+  xy: 422, 161
+  size: 121, 20
+  orig: 121, 20
+  offset: 0, 0
+  index: -1
+daojv/手2
+  rotate: false
+  xy: 2, 8
+  size: 126, 36
+  orig: 126, 36
+  offset: 0, 0
+  index: -1
+daojv/手3
+  rotate: false
+  xy: 685, 184
+  size: 105, 70
+  orig: 105, 70
+  offset: 0, 0
+  index: -1
+daojv/身体
+  rotate: true
+  xy: 650, 102
+  size: 80, 82
+  orig: 80, 82
+  offset: 0, 0
+  index: -1
+kaipao/开炮-头
+  rotate: false
+  xy: 792, 136
+  size: 99, 55
+  orig: 99, 55
+  offset: 0, 0
+  index: -1
+kaipao/开炮-火0001
+  rotate: false
+  xy: 2, 151
+  size: 138, 103
+  orig: 138, 103
+  offset: 0, 0
+  index: -1
+kaipao/开炮-火0002
+  rotate: false
+  xy: 2, 46
+  size: 138, 103
+  orig: 138, 103
+  offset: 0, 0
+  index: -1
+kaipao/开炮-火0003
+  rotate: false
+  xy: 142, 151
+  size: 138, 103
+  orig: 138, 103
+  offset: 0, 0
+  index: -1
+kaipao/开炮-火0004
+  rotate: false
+  xy: 142, 46
+  size: 138, 103
+  orig: 138, 103
+  offset: 0, 0
+  index: -1
+kaipao/开炮-火0005
+  rotate: false
+  xy: 282, 151
+  size: 138, 103
+  orig: 138, 103
+  offset: 0, 0
+  index: -1
+kaipao/开炮-炮筒
+  rotate: false
+  xy: 734, 138
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+shouji/shouji0001
+  rotate: false
+  xy: 893, 130
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+shouji/shouji0002
+  rotate: false
+  xy: 552, 125
+  size: 96, 61
+  orig: 96, 61
+  offset: 0, 0
+  index: -1
+siwang/死亡-烟0001
+  rotate: true
+  xy: 790, 71
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+siwang/死亡-烟0002
+  rotate: true
+  xy: 871, 65
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+siwang/死亡-烟0003
+  rotate: false
+  xy: 952, 14
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+siwang/死亡-烟0004
+  rotate: true
+  xy: 552, 60
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+siwang/死亡-烟0005
+  rotate: true
+  xy: 633, 37
+  size: 63, 79
+  orig: 63, 79
+  offset: 0, 0
+  index: -1
+siwang/死亡-身体
+  rotate: false
+  xy: 552, 188
+  size: 131, 66
+  orig: 131, 66
+  offset: 0, 0
+  index: -1
+zhongshang/重伤0001
+  rotate: false
+  xy: 282, 78
+  size: 128, 71
+  orig: 128, 71
+  offset: 0, 0
+  index: -1
+zhongshang/重伤0025
+  rotate: false
+  xy: 422, 183
+  size: 128, 71
+  orig: 128, 71
+  offset: 0, 0
+  index: -1
+zoulu/走路-烟0001
+  rotate: false
+  xy: 714, 54
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1
+zoulu/走路-烟0008
+  rotate: false
+  xy: 714, 12
+  size: 59, 40
+  orig: 59, 40
+  offset: 0, 0
+  index: -1

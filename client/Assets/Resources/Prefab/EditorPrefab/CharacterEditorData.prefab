@@ -1,0 +1,104 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1001 &100100000
+Prefab:
+  m_ObjectHideFlags: 1
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications: []
+    m_RemovedComponents: []
+  m_ParentPrefab: {fileID: 0}
+  m_RootGameObject: {fileID: 1000013077548818}
+  m_IsPrefabParent: 1
+--- !u!1 &1000013077548818
+GameObject:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  serializedVersion: 4
+  m_Component:
+  - 4: {fileID: 4000013178447598}
+  - 114: {fileID: 114000013405133360}
+  m_Layer: 0
+  m_Name: CharacterEditorData
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4000013178447598
+Transform:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013077548818}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 340.28326, y: 236.38596, z: -5}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+--- !u!114 &114000013405133360
+MonoBehaviour:
+  m_ObjectHideFlags: 1
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 100100000}
+  m_GameObject: {fileID: 1000013077548818}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 874dd7fa3eafa534298323439cd913c7, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_id: 100001
+  m_resID: 100001
+  m_defaultName: "\u8001\u571F"
+  m_scale: 1
+  m_walkSpeedX: 2
+  m_walkSpeedY: 8
+  m_hatred: 0
+  m_lowFireAngle: 25
+  m_higFireAngle: 40
+  m_fireRange: 300
+  m_weaponPosition: {x: 20, y: 20}
+  m_beAttackBoxMinX: -38
+  m_beAttackBoxMinY: 0
+  m_beAttackBoxMaxX: 38
+  m_beAttackBoxMaxY: 10
+  m_lsStates:
+  - m_animationName: IDLE0
+    m_totFrame: 150
+    m_stateType: 2
+    m_oldStateType: 2
+    m_attackBmDatas: []
+    m_attackNmDatas: []
+  - m_animationName: WALK
+    m_totFrame: 30
+    m_stateType: 5
+    m_oldStateType: 5
+    m_attackBmDatas: []
+    m_attackNmDatas: []
+  - m_animationName: FIRE
+    m_totFrame: 19
+    m_stateType: 7
+    m_oldStateType: 7
+    m_attackBmDatas:
+    - m_attackType: 1
+      m_iFrame: 14
+      m_bombCofigID: 1
+      m_damage: 20
+      m_centerDamage: 25
+    m_attackNmDatas: []
+  - m_animationName: BE_ATTACK
+    m_totFrame: 25
+    m_stateType: 8
+    m_oldStateType: 8
+    m_attackBmDatas: []
+    m_attackNmDatas: []
+  - m_animationName: DEAD
+    m_totFrame: 9
+    m_stateType: 9
+    m_oldStateType: 9
+    m_attackBmDatas: []
+    m_attackNmDatas: []

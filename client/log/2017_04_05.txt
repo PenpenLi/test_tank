@@ -1,0 +1,2089 @@
+﻿[key][2017-04-05 00:29:28:825]LuaManager初始化好了
+[key][2017-04-05 00:29:28:928]GameMode:0
+[key][2017-04-05 00:29:28:956]GameManager初始化好了，游戏正式开始。
+[info][2017-04-05 00:29:35:228]ConnectToServer
+[info][2017-04-05 00:29:35:284]Time: 35 ip:42.62.22.60 port:8001
+[info][2017-04-05 00:29:35:491]ConnectSuccess
+[info][2017-04-05 00:29:35:757]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-04-05 00:29:35:836]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-04-05 00:29:36:063]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 00:29:36:085]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 00:29:36:106]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-04-05 00:29:38:436]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 00:29:39:883]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 00:29:41:302]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:29:41:606]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:29:43:004]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:29:43:019]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:29:43:553]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:29:44:917]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:29:45:557]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:29:45:888]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:29:47:649]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:29:47:921]Transform child out of bounds
+[info][2017-04-05 00:29:47:931]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 00:29:49:154]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:29:49:171]Transform child out of bounds
+[info][2017-04-05 00:29:49:191]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 00:29:50:719]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:03:079]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:05:055]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:05:597]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:05:669]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:05:978]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:05:983]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:05:988]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:05:993]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:05:998]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:003]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:259]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:274]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:289]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:304]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:318]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:332]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:341]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:546]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:615]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:907]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:912]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:918]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:06:929]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:08:019]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:11:549]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:11:791]CharacterStateType.ATTACK
+[info][2017-04-05 00:30:12:226]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:12:778]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:15:701]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:16:359]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:16:387]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:16:507]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:17:604]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:19:116]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:19:721]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:20:801]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:24:317]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:25:201]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:25:312]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:25:340]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:25:368]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:25:472]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:25:981]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:30:048]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:30:218]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:30:500]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:30:716]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:31:802]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:31:977]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:33:680]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:33:692]CharacterStateType.ATTACK
+[info][2017-04-05 00:30:33:809]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:34:858]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:37:216]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:37:962]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:38:322]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:38:350]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:38:737]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:38:876]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:41:338]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:42:780]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:43:880]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:43:958]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:44:720]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:45:160]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:45:677]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:52:919]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:53:876]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:53:936]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:53:965]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:53:987]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:54:238]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:54:777]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:57:964]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:58:180]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:59:081]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:30:59:221]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:02:191]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:02:199]CharacterStateType.ATTACK
+[info][2017-04-05 00:31:02:440]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:03:000]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:10:339]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:11:618]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:12:278]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:17:820]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:17:999]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:18:521]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:24:722]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:24:739]CharacterStateType.ATTACK
+[info][2017-04-05 00:31:24:916]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:25:999]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:30:358]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:30:936]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:31:978]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:32:257]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:33:978]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:38:348]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 00:31:43:961]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 00:31:44:821]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:45:877]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:47:302]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:47:317]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:47:858]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:48:899]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:49:561]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:50:941]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:51:076]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:51:820]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:52:441]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:56:513]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:56:566]Transform child out of bounds
+[info][2017-04-05 00:31:56:585]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 00:31:57:330]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:57:338]Transform child out of bounds
+[info][2017-04-05 00:31:57:347]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 00:31:57:840]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:57:908]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:57:923]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:57:938]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:170]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:184]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:195]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:203]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:209]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:216]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:222]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:228]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:234]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:238]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:277]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:401]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:447]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:726]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:732]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:737]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:58:747]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:31:59:854]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:03:461]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:04:196]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:04:480]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:05:017]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:08:919]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:10:742]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:11:504]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:16:440]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:17:220]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:17:760]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:20:538]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:21:136]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:21:480]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:22:042]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:26:260]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:27:021]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:27:316]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:27:856]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:31:479]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:32:616]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:32:820]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:33:897]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:36:639]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:37:385]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:37:658]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:38:721]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:42:039]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:42:141]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:43:580]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:43:980]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:44:301]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:44:836]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:47:776]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:48:361]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:48:758]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:49:701]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:53:138]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:54:257]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:54:439]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:32:54:978]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:01:619]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:02:297]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:02:839]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:06:196]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:06:938]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:07:223]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:07:759]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:12:677]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:13:599]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:14:691]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:17:799]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:18:081]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:18:618]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:21:379]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:22:037]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:22:577]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:27:900]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:28:059]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:28:617]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:31:699]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:32:120]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:32:659]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:36:240]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:37:084]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:37:617]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:42:040]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:42:499]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:45:038]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:45:144]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:52:941]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 00:33:54:496]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 00:33:56:220]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:57:358]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:58:116]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:58:736]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:33:59:820]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:01:659]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:01:837]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:02:797]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:02:860]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:03:960]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:04:673]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:04:738]Transform child out of bounds
+[info][2017-04-05 00:34:04:757]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 00:34:04:795]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:05:746]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:05:762]Transform child out of bounds
+[info][2017-04-05 00:34:05:781]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 00:34:06:799]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:06:868]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:06:882]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:06:897]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:166]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:181]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:196]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:211]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:225]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:240]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:255]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:269]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:284]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:298]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:362]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:520]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:526]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:550]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:555]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:643]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:07:984]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:08:561]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:14:043]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:14:092]CharacterStateType.ATTACK
+[info][2017-04-05 00:34:14:778]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:15:042]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:15:582]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:19:481]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:20:161]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:20:702]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:25:404]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:26:321]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:26:624]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:27:721]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:31:704]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:32:768]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:33:844]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:38:082]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:38:100]CharacterStateType.ATTACK
+[info][2017-04-05 00:34:38:499]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:39:018]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:39:546]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:48:342]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:49:120]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:49:381]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:49:921]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:55:361]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:55:784]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:56:280]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:56:544]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:34:57:623]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:01:800]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:02:864]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:03:425]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:03:959]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:09:587]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:09:594]CharacterStateType.ATTACK
+[info][2017-04-05 00:35:11:988]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:12:266]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:12:804]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:18:661]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:19:324]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:19:600]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:20:679]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:26:504]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:27:402]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:27:621]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:28:703]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:43:341]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:44:139]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:44:443]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:44:981]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:52:544]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:53:361]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:53:602]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:54:684]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:35:59:303]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:00:266]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:00:780]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:04:204]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:05:125]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:05:443]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:05:982]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:10:600]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:12:823]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:13:920]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:31:002]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:32:060]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:32:603]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:36:622]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:37:881]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:38:965]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:44:060]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:44:439]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:44:982]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:50:104]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:50:784]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:51:620]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:52:421]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:36:54:763]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:02:370]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 00:37:04:363]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 00:37:04:961]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:05:182]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:05:700]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:06:660]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:07:740]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:09:024]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:09:038]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:09:763]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:09:801]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:11:362]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:12:218]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:12:245]Transform child out of bounds
+[info][2017-04-05 00:37:12:264]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 00:37:12:520]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:254]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:270]Transform child out of bounds
+[info][2017-04-05 00:37:13:289]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 00:37:13:760]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:829]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:843]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:858]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:867]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:874]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:880]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:948]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:985]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:13:991]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:083]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:088]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:092]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:097]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:101]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:110]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:171]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:502]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:507]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:512]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:14:521]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:15:627]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:17:764]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:18:441]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:18:721]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:19:822]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:25:485]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:25:498]CharacterStateType.ATTACK
+[info][2017-04-05 00:37:26:330]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:26:702]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:27:783]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:33:543]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:34:400]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:34:680]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:35:761]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:40:683]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:41:740]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:42:302]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:42:884]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:46:522]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:47:304]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:47:559]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:48:640]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:52:988]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:52:995]CharacterStateType.ATTACK
+[info][2017-04-05 00:37:54:520]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:54:842]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:37:55:922]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:00:782]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:02:224]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:02:502]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:03:581]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:07:759]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:08:743]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:08:940]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:10:022]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:10:121]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:15:305]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:15:320]CharacterStateType.ATTACK
+[info][2017-04-05 00:38:17:457]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:17:474]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:18:002]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:21:400]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:23:500]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:23:680]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:24:764]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:27:821]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:28:921]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:29:380]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:29:902]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:33:000]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:33:400]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:34:188]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:34:306]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:39:401]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:39:424]CharacterStateType.ATTACK
+[info][2017-04-05 00:38:40:181]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:40:724]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:45:923]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:47:460]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:48:001]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:50:743]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:51:344]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:55:263]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:56:042]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:56:600]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:59:085]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:38:59:102]CharacterStateType.ATTACK
+[info][2017-04-05 00:38:59:734]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:00:099]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:00:644]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:06:080]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:07:281]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:08:039]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:12:301]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:13:103]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:13:603]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:16:922]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:18:317]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:19:983]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:21:855]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:21:871]CharacterStateType.ATTACK
+[info][2017-04-05 00:39:23:244]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:23:804]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:26:844]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:28:282]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:28:861]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:32:102]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:32:941]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:34:041]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:45:403]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:45:410]CharacterStateType.ATTACK
+[info][2017-04-05 00:39:46:233]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:46:760]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:50:720]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:51:403]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:51:943]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:53:921]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:54:480]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:55:704]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:55:781]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:59:159]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:39:59:259]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:00:142]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:00:502]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:01:564]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:07:803]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:08:382]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:08:784]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:13:920]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:15:720]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:18:782]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:18:838]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 00:40:26:365]4/5/2017 12:40:26 AM Disconnect!
+[key][2017-04-05 09:36:28:352]LuaManager初始化好了
+[key][2017-04-05 09:36:28:423]GameMode:0
+[key][2017-04-05 09:36:28:434]GameManager初始化好了，游戏正式开始。
+[key][2017-04-05 09:37:42:468]LuaManager初始化好了
+[key][2017-04-05 09:37:42:499]GameMode:0
+[key][2017-04-05 09:37:42:510]GameManager初始化好了，游戏正式开始。
+[info][2017-04-05 09:37:45:157]ConnectToServer
+[info][2017-04-05 09:37:45:229]Time: 45 ip:42.62.22.60 port:8001
+[info][2017-04-05 09:37:45:357]ConnectSuccess
+[info][2017-04-05 09:37:45:469]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-04-05 09:37:45:517]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-04-05 09:37:45:661]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 09:37:45:702]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 09:37:45:740]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-04-05 09:37:48:173]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 09:38:17:285]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 09:38:17:980]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:19:836]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:20:076]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:23:056]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:23:593]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:25:196]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:25:241]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:26:499]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:26:638]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:29:326]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:29:580]Transform child out of bounds
+[info][2017-04-05 09:38:29:602]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 09:38:29:665]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:30:602]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:30:607]Transform child out of bounds
+[info][2017-04-05 09:38:30:613]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 09:38:31:735]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:32:822]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:32:982]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:32:987]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:32:993]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:32:998]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:002]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:007]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:071]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:193]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:198]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:203]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:208]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:213]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:217]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:273]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:537]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:542]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:547]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:552]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:557]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:33:755]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:34:283]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:36:611]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:37:310]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:38:382]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:47:283]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:55:705]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:38:57:307]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:43:45:543]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 09:43:45:559]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 09:43:46:411]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:43:47:705]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:43:48:788]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:43:50:625]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:45:01:925]4/5/2017 9:45:01 AM Disconnect!
+[key][2017-04-05 09:45:06:792]LuaManager初始化好了
+[key][2017-04-05 09:45:06:819]GameMode:0
+[key][2017-04-05 09:45:06:830]GameManager初始化好了，游戏正式开始。
+[info][2017-04-05 09:45:08:073]ConnectToServer
+[info][2017-04-05 09:45:08:150]Time: 8 ip:42.62.22.60 port:8001
+[info][2017-04-05 09:45:08:254]ConnectSuccess
+[info][2017-04-05 09:45:08:376]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-04-05 09:45:08:386]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-04-05 09:45:08:436]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 09:45:08:443]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 09:45:08:450]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-04-05 09:45:10:529]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 09:45:10:535]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 09:45:12:590]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:45:14:431]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:45:15:525]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:45:16:780]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:46:20:800]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:46:20:856]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:49:07:685]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 09:49:07:700]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 09:49:08:358]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:49:10:439]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:49:11:515]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:49:20:440]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:49:39:138]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:50:16:799]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:50:16:835]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:50:24:301]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 09:50:24:317]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 09:50:24:777]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:50:26:397]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:50:27:479]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:50:32:559]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:50:34:560]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:50:35:127]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:51:32:779]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:51:32:816]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:51:44:749]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 09:51:44:754]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 09:51:45:446]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:51:46:958]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:51:47:478]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:51:48:659]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:51:50:438]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:51:51:696]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:52:52:717]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:52:52:754]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:53:00:898]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 09:53:00:914]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 09:53:01:465]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:53:03:078]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:53:03:627]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:53:04:759]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:53:34:508]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:53:34:524]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 09:58:11:128]4/5/2017 9:58:11 AM Disconnect!
+[info][2017-04-05 09:58:16:734]ConnectToServer
+[info][2017-04-05 09:58:16:798]Time: 16 ip:42.62.22.60 port:8001
+[info][2017-04-05 09:58:16:960]ConnectSuccess
+[info][2017-04-05 09:58:17:153]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-04-05 09:58:17:218]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-04-05 09:58:17:380]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 09:58:17:414]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 09:58:17:448]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-04-05 09:58:18:835]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:20:000]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:20:975]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:21:933]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:22:831]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:23:783]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:24:779]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:25:625]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:26:783]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:27:801]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:28:899]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 09:58:29:907]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-04-05 10:30:13:119]4/5/2017 10:30:13 AM Disconnect!
+[key][2017-04-05 10:30:39:719]LuaManager初始化好了
+[key][2017-04-05 10:30:39:753]GameMode:0
+[key][2017-04-05 10:30:39:766]GameManager初始化好了，游戏正式开始。
+[info][2017-04-05 10:30:40:981]ConnectToServer
+[info][2017-04-05 10:30:41:053]Time: 41 ip:42.62.22.60 port:8001
+[info][2017-04-05 10:30:41:255]ConnectSuccess
+[info][2017-04-05 10:30:43:025]ConnectToServer
+[info][2017-04-05 10:30:43:093]4/5/2017 10:30:43 AM Disconnect!
+[info][2017-04-05 10:30:43:159]Time: 43 ip:42.62.22.60 port:8001
+[info][2017-04-05 10:30:43:316]ConnectSuccess
+[info][2017-04-05 10:30:46:717]4/5/2017 10:30:46 AM Disconnect!
+[key][2017-04-05 10:30:51:865]LuaManager初始化好了
+[key][2017-04-05 10:30:51:896]GameMode:0
+[key][2017-04-05 10:30:51:907]GameManager初始化好了，游戏正式开始。
+[info][2017-04-05 10:30:52:764]ConnectToServer
+[info][2017-04-05 10:30:52:806]Time: 52 ip:42.62.22.60 port:8001
+[info][2017-04-05 10:30:52:890]ConnectSuccess
+[info][2017-04-05 10:31:02:358]ConnectToServer
+[info][2017-04-05 10:31:02:426]4/5/2017 10:31:02 AM Disconnect!
+[info][2017-04-05 10:31:02:492]Time: 2 ip:42.62.22.60 port:8001
+[info][2017-04-05 10:31:02:578]ConnectSuccess
+[info][2017-04-05 10:31:25:510]ConnectToServer
+[info][2017-04-05 10:31:25:573]4/5/2017 10:31:25 AM Disconnect!
+[info][2017-04-05 10:31:25:634]Time: 25 ip:42.62.22.60 port:8001
+[info][2017-04-05 10:31:25:707]ConnectSuccess
+[info][2017-04-05 10:31:56:499]ConnectToServer
+[info][2017-04-05 10:31:56:563]4/5/2017 10:31:56 AM Disconnect!
+[info][2017-04-05 10:31:56:628]Time: 56 ip:42.62.22.60 port:8001
+[info][2017-04-05 10:31:56:785]ConnectSuccess
+[info][2017-04-05 10:31:56:983]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-04-05 10:31:57:025]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-04-05 10:31:57:139]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 10:31:57:183]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 10:31:57:225]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-04-05 10:42:41:741]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 10:42:52:262]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 10:42:54:304]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:42:54:335]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:42:56:355]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:42:56:709]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:42:57:796]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:42:59:115]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:42:59:569]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:42:59:678]Transform child out of bounds
+[info][2017-04-05 10:42:59:687]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 10:43:00:389]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:00:396]Transform child out of bounds
+[info][2017-04-05 10:43:00:405]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 10:43:01:051]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:02:193]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:03:431]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:04:654]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:014]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:531]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:603]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:620]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:859]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:874]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:888]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:903]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:918]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:933]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:945]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:953]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:959]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:06:998]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:07:013]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:07:019]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:07:156]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:07:199]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:07:477]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:07:482]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:07:487]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:07:499]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:08:590]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:12:751]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:13:573]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:14:667]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:27:452]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:28:132]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:28:671]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:33:139]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:33:208]CharacterStateType.ATTACK
+[info][2017-04-05 10:43:34:009]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:34:365]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:35:452]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:39:508]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:41:608]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:42:150]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:42:407]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:42:890]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:43:129]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:46:672]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:47:469]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:47:748]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:43:48:289]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:08:411]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:10:731]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:10:949]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:12:787]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:13:288]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:14:372]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:23:437]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:23:442]CharacterStateType.ATTACK
+[info][2017-04-05 10:44:24:450]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:24:953]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:25:493]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:30:452]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:31:372]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:31:991]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:32:528]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:50:249]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:50:571]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:44:51:654]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:03:271]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:04:109]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:04:652]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:09:880]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:09:897]CharacterStateType.ATTACK
+[info][2017-04-05 10:45:09:972]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:10:768]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:11:116]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:11:651]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:12:631]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:13:708]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:15:328]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 10:45:35:288]CharacterStateType.ATTACK
+[info][2017-04-05 10:45:38:868]CharacterStateType.ATTACK
+[info][2017-04-05 10:45:41:370]CharacterStateType.ATTACK
+[info][2017-04-05 10:45:44:946]CharacterStateType.ATTACK
+[info][2017-04-05 10:45:51:791]CharacterStateType.ATTACK
+[info][2017-04-05 10:45:52:474]Receive MSG: NetworkMsg  MSG_PVE_OVER
+
+[info][2017-04-05 10:46:40:826]CharacterStateType.ATTACK
+[info][2017-04-05 10:46:44:747]CharacterStateType.ATTACK
+[info][2017-04-05 10:46:51:289]CharacterStateType.ATTACK
+[info][2017-04-05 10:46:55:489]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:01:028]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:05:028]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:10:427]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:13:749]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:17:951]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:20:930]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:28:571]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:31:052]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:36:887]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:39:850]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:50:768]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:53:808]CharacterStateType.ATTACK
+[info][2017-04-05 10:47:54:395]Receive MSG: NetworkMsg  MSG_PVE_OVER
+
+[info][2017-04-05 11:10:00:004]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 11:10:02:248]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 11:10:03:250]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:05:222]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:05:770]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:20:390]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:36:550]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:37:449]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:38:347]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:39:390]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:40:027]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:40:610]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:43:906]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:46:759]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:46:776]Transform child out of bounds
+[info][2017-04-05 11:10:46:790]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 11:10:49:732]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:49:749]Transform child out of bounds
+[info][2017-04-05 11:10:49:768]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 11:10:50:770]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:50:943]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:50:950]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:50:956]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:51:056]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:51:347]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:51:352]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:51:383]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:51:428]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:51:685]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:51:708]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:52:790]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:10:54:148]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:12:10:994]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 11:12:11:009]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 11:12:11:726]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:12:12:928]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:12:13:471]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:12:25:868]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 11:12:25:883]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:18:56:649]4/5/2017 3:18:56 PM Disconnect!
+[key][2017-04-05 15:19:00:378]LuaManager初始化好了
+[key][2017-04-05 15:19:00:411]GameMode:0
+[key][2017-04-05 15:19:00:421]GameManager初始化好了，游戏正式开始。
+[info][2017-04-05 15:19:03:807]ConnectToServer
+[info][2017-04-05 15:19:03:879]Time: 3 ip:42.62.22.60 port:8001
+[info][2017-04-05 15:19:03:988]ConnectSuccess
+[info][2017-04-05 15:19:04:090]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-04-05 15:19:04:100]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-04-05 15:19:04:150]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 15:19:04:157]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 15:19:04:162]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-04-05 15:19:05:714]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:19:05:720]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:19:06:407]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:19:07:652]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:19:08:185]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:19:09:307]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:19:12:829]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:19:13:871]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:19:14:572]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:19:40:727]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:19:40:738]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:20:34:089]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:20:34:094]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:20:34:788]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:20:36:189]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:20:37:392]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:21:02:506]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:21:02:522]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:21:46:446]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:21:46:467]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:21:47:210]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:21:48:627]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:21:49:167]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:22:25:852]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:22:25:867]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:22:35:928]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:22:39:350]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:22:40:050]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:23:09:410]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:23:10:487]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:23:16:231]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:23:16:243]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:25:24:740]4/5/2017 3:25:24 PM Disconnect!
+[key][2017-04-05 15:28:15:989]LuaManager初始化好了
+[key][2017-04-05 15:28:16:015]GameMode:0
+[key][2017-04-05 15:28:16:024]GameManager初始化好了，游戏正式开始。
+[info][2017-04-05 15:28:17:198]ConnectToServer
+[info][2017-04-05 15:28:17:271]Time: 17 ip:42.62.22.60 port:8001
+[info][2017-04-05 15:28:17:478]ConnectSuccess
+[info][2017-04-05 15:28:17:738]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-04-05 15:28:17:811]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-04-05 15:28:18:009]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 15:28:18:072]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 15:28:18:131]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-04-05 15:28:20:117]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:28:20:132]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:28:20:906]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:22:283]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:23:364]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:48:243]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:50:081]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:50:986]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:51:743]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:52:966]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:54:423]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:55:246]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:56:222]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:57:746]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:58:862]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:28:59:826]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:01:922]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:03:974]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:04:047]Transform child out of bounds
+[info][2017-04-05 15:29:04:058]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 15:29:05:275]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:05:284]Transform child out of bounds
+[info][2017-04-05 15:29:05:295]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 15:29:06:365]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:06:497]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:06:503]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:06:532]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:06:565]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:06:626]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:06:663]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:06:669]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:06:706]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:06:876]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:06:902]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:07:445]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:14:559]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:16:385]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:17:460]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:21:879]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:21:900]CharacterStateType.ATTACK
+[info][2017-04-05 15:29:22:722]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:23:184]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:26:661]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:26:705]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:28:539]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:29:823]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:30:361]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:34:058]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:34:177]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:36:802]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:36:822]CharacterStateType.ATTACK
+[info][2017-04-05 15:29:38:564]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:38:742]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:39:285]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:42:724]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:42:803]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:45:086]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:47:103]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:47:660]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:52:320]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:53:220]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:55:670]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:55:682]CharacterStateType.ATTACK
+[info][2017-04-05 15:29:57:565]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:57:863]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:29:58:405]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:30:02:039]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:30:03:266]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:30:03:525]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:30:04:599]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:30:11:646]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:30:29:474]4/5/2017 3:30:29 PM Disconnect!
+[key][2017-04-05 15:34:25:248]LuaManager初始化好了
+[key][2017-04-05 15:34:25:275]GameMode:0
+[key][2017-04-05 15:34:25:284]GameManager初始化好了，游戏正式开始。
+[info][2017-04-05 15:34:33:268]ConnectToServer
+[info][2017-04-05 15:34:33:304]Time: 33 ip:42.62.22.60 port:8001
+[info][2017-04-05 15:34:33:421]ConnectSuccess
+[info][2017-04-05 15:34:33:694]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-04-05 15:34:33:734]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-04-05 15:34:33:807]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 15:34:33:814]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-04-05 15:34:33:818]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-04-05 15:35:01:442]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:35:01:454]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:35:02:306]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:04:041]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:04:583]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:07:687]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:07:817]Transform child out of bounds
+[info][2017-04-05 15:35:07:825]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 15:35:09:011]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:09:019]Transform child out of bounds
+[info][2017-04-05 15:35:09:029]  at (wrapper managed-to-native) UnityEngine.Transform:GetChild (int)
+  at LuaFramework.LuaHelper.CreatePrefab (UnityEngine.Transform parent, System.String path, System.String name) [0x00069] in F:\123\CrazyTank\client\Assets\LuaFramework\Script\misc\LuaHelper.cs:927 
+[info][2017-04-05 15:35:10:646]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:11:264]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:12:346]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:12:505]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:12:511]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:12:516]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:12:583]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:12:811]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:12:816]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:12:846]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:12:885]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:13:125]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:13:130]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:13:663]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:35:15:926]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:38:25:000]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:38:28:503]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:38:29:325]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:38:31:064]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:38:31:605]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:39:36:383]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:41:16:916]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:41:20:343]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:41:20:925]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:41:22:303]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:41:23:366]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:41:24:447]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:41:25:804]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:41:37:085]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:41:37:487]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:41:39:345]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:41:52:064]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:41:52:667]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:42:04:043]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:42:04:050]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:46:50:105]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:46:50:112]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:46:51:424]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:46:52:882]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:46:53:404]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:46:54:683]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:46:58:085]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:47:25:365]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:47:25:378]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:49:36:866]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:49:36:873]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:49:37:408]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:49:38:862]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:49:39:403]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:49:41:663]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:49:42:663]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:49:54:706]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:49:57:343]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:50:01:362]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:50:04:785]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:50:44:703]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:50:44:740]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:50:52:443]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:50:52:448]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:50:53:162]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:50:54:246]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:50:55:321]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:50:57:905]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:51:16:625]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:51:26:606]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:51:43:062]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:51:44:464]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:52:00:648]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:52:00:671]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:52:53:405]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:52:53:410]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:52:54:425]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:52:55:862]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:52:56:382]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:52:57:082]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:00:285]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:01:167]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:03:306]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:04:045]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:10:786]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:11:323]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:12:802]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:13:483]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:19:547]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:29:127]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:29:625]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:40:482]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:40:944]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:46:664]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:47:382]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:48:146]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:54:423]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:53:55:041]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:01:665]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:01:701]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:08:286]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-04-05 15:54:08:291]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-04-05 15:54:08:845]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:10:264]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:11:365]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:12:145]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:21:288]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:21:804]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:23:183]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:24:104]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:25:082]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:25:524]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:30:006]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:31:087]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:31:685]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:33:443]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:34:726]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:38:266]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:39:966]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:40:686]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:41:222]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:41:804]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:49:762]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:50:363]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:54:183]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:54:56:324]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:55:16:585]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-05 15:55:16:604]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+

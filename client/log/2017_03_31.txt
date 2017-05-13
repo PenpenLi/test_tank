@@ -1,0 +1,2358 @@
+﻿[key][2017-03-31 11:21:03:204]LuaManager初始化好了
+[key][2017-03-31 11:21:03:305]GameMode:0
+[key][2017-03-31 11:21:03:336]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 11:21:10:580]ConnectToServer
+[info][2017-03-31 11:21:10:656]Time: 10 ip:42.62.22.60 port:8001
+[info][2017-03-31 11:21:10:877]ConnectSuccess
+[info][2017-03-31 11:21:11:060]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 11:21:11:117]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 11:21:11:222]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 11:21:11:270]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 11:21:11:306]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 11:21:13:236]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 11:21:13:256]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 11:21:17:369]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:18:979]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:19:511]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:20:637]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:21:419]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:23:103]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:23:901]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:24:937]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:25:268]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:25:275]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:25:281]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:25:288]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:25:297]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:25:377]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:25:505]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:25:511]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:25:556]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:25:804]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:26:900]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:28:332]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:29:940]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:34:365]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 11:21:34:375]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 11:21:35:039]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:36:420]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:36:958]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:38:222]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:40:992]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:42:914]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:46:787]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:47:863]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:47:946]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:47:951]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:47:992]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:47:997]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:48:085]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:48:091]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:48:131]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:48:136]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:48:366]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:48:383]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:48:920]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:57:872]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:57:960]CharacterStateType.ATTACK
+[info][2017-03-31 11:21:59:105]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:59:193]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:59:200]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:59:227]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:59:233]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:21:59:777]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:03:170]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:03:183]CharacterStateType.ATTACK
+[info][2017-03-31 11:22:04:479]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:04:517]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:04:534]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:04:579]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:04:608]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:05:699]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:07:904]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:07:926]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:19:992]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 11:22:19:997]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 11:22:20:593]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:21:792]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:22:846]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:23:776]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:26:660]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:28:699]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:31:657]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:32:745]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:32:845]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:32:850]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:32:908]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:32:913]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:33:225]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:33:261]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:33:267]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:33:307]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:33:582]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:33:622]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:34:697]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:36:918]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:36:952]CharacterStateType.ATTACK
+[info][2017-03-31 11:22:37:829]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:37:859]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:37:962]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:38:008]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:38:372]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:38:908]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:42:349]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:42:361]CharacterStateType.ATTACK
+[info][2017-03-31 11:22:43:565]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:43:571]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:43:712]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:43:743]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:43:821]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:44:898]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:53:761]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:53:792]CharacterStateType.ATTACK
+[info][2017-03-31 11:22:55:220]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:55:268]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:55:275]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:55:362]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:22:58:648]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:23:11:024]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:23:11:055]CharacterStateType.ATTACK
+[info][2017-03-31 11:23:12:465]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:23:12:526]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:23:12:578]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:23:12:608]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:23:12:683]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:23:13:768]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:23:28:502]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:23:39:364]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:28:58:038]3/31/2017 11:28:58 AM Disconnect!
+[key][2017-03-31 11:29:09:342]LuaManager初始化好了
+[key][2017-03-31 11:29:09:372]GameMode:0
+[key][2017-03-31 11:29:09:383]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 11:29:39:691]ConnectToServer
+[info][2017-03-31 11:29:39:767]Time: 39 ip:42.62.22.60 port:8001
+[info][2017-03-31 11:29:39:958]ConnectSuccess
+[info][2017-03-31 11:29:40:149]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 11:29:40:222]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 11:29:40:340]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 11:29:40:385]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 11:29:40:429]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 11:29:41:855]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 11:29:41:873]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 11:29:42:479]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:44:298]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:44:841]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:46:132]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:49:232]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:50:855]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:53:817]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:54:854]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:54:903]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:55:265]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:55:281]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:55:377]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:55:742]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:55:747]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:55:776]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:55:815]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:56:092]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:56:125]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:56:657]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:59:237]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:29:59:283]CharacterStateType.ATTACK
+[info][2017-03-31 11:30:00:258]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:00:355]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:00:640]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:00:656]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:03:579]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:05:863]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:05:878]CharacterStateType.ATTACK
+[info][2017-03-31 11:30:06:876]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:06:996]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:07:196]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:07:300]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:07:310]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:07:860]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:22:538]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:25:260]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:25:299]CharacterStateType.ATTACK
+[info][2017-03-31 11:30:26:376]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:26:657]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:26:767]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:26:875]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:26:965]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:27:499]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:32:937]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:32:979]CharacterStateType.ATTACK
+[info][2017-03-31 11:30:34:354]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:34:447]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:34:468]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:34:599]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:34:656]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:35:718]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:41:416]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:42:499]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:47:289]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 11:30:47:305]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 11:30:47:855]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:49:155]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:49:700]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:53:155]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:53:858]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:55:619]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:58:662]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:59:721]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:59:960]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:59:976]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:30:59:991]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:00:143]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:00:383]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:00:388]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:00:433]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:00:479]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:00:754]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:00:782]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:01:855]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:13:059]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:13:095]CharacterStateType.ATTACK
+[info][2017-03-31 11:31:13:936]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:14:005]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:14:108]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:14:161]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:14:499]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:15:575]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:17:649]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:17:679]CharacterStateType.ATTACK
+[info][2017-03-31 11:31:18:794]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:18:831]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:18:976]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:19:013]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:19:086]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:19:608]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:26:975]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:27:010]CharacterStateType.ATTACK
+[info][2017-03-31 11:31:28:396]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:28:442]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:28:495]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:31:860]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:38:278]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:31:40:816]3/31/2017 11:31:40 AM Disconnect!
+[key][2017-03-31 11:43:22:305]LuaManager初始化好了
+[key][2017-03-31 11:43:22:346]GameMode:0
+[key][2017-03-31 11:43:22:362]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 11:44:04:875]ConnectToServer
+[info][2017-03-31 11:44:04:950]Time: 4 ip:42.62.22.60 port:8001
+[info][2017-03-31 11:44:05:166]ConnectSuccess
+[info][2017-03-31 11:44:05:319]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 11:44:05:330]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 11:44:05:376]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 11:44:05:384]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 11:44:05:391]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 11:44:06:909]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 11:44:06:927]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 11:44:07:530]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:09:030]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:09:549]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:13:103]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:13:782]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:15:919]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:18:773]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:19:822]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:19:870]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:20:240]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:20:254]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:20:268]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:20:353]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:20:367]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:20:690]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:20:738]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:20:744]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:21:114]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:21:660]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:23:497]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:23:544]CharacterStateType.ATTACK
+[info][2017-03-31 11:44:24:870]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:24:964]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:24:981]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:24:997]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:25:013]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:25:551]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:28:668]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:28:700]CharacterStateType.ATTACK
+[info][2017-03-31 11:44:30:109]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:30:216]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:30:372]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:30:377]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:30:419]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:30:932]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:36:591]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:36:627]CharacterStateType.ATTACK
+[info][2017-03-31 11:44:38:112]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:38:128]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:38:228]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:38:235]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:41:490]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:44:56:712]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:45:11:949]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:45:26:611]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:45:39:929]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:03:693]3/31/2017 11:48:03 AM Disconnect!
+[key][2017-03-31 11:48:08:012]LuaManager初始化好了
+[key][2017-03-31 11:48:08:041]GameMode:0
+[key][2017-03-31 11:48:08:050]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 11:48:10:185]ConnectToServer
+[info][2017-03-31 11:48:10:260]Time: 10 ip:42.62.22.60 port:8001
+[info][2017-03-31 11:48:10:401]ConnectSuccess
+[info][2017-03-31 11:48:10:495]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 11:48:10:508]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 11:48:10:554]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 11:48:10:566]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 11:48:10:575]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 11:48:13:234]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 11:48:13:252]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 11:48:13:863]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:15:422]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:16:519]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:17:175]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:17:935]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:19:462]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:20:776]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:21:858]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:22:134]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:22:140]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:22:145]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:22:199]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:22:419]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:22:424]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:22:464]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:22:519]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:22:828]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:22:854]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:23:937]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:29:028]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:30:648]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:35:335]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 11:48:35:351]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 11:48:35:834]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:37:329]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:37:870]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:38:868]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:41:606]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:43:200]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:46:055]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:46:567]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:46:657]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:46:663]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:46:720]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:46:991]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:47:038]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:47:056]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:47:084]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:47:106]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:47:395]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:47:400]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:47:948]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:49:525]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:49:569]CharacterStateType.ATTACK
+[info][2017-03-31 11:48:50:371]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:50:391]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:50:542]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:50:568]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:50:928]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:51:466]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:53:430]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:53:460]CharacterStateType.ATTACK
+[info][2017-03-31 11:48:54:620]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:54:637]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:54:821]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:54:870]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:54:947]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:48:55:488]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:49:02:214]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:49:02:253]CharacterStateType.ATTACK
+[info][2017-03-31 11:49:03:630]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:49:03:700]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:49:03:752]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:49:06:549]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:49:21:767]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:49:36:449]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 11:49:36:819]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:30:32:089]ConnectToServer
+[info][2017-03-31 12:30:32:125]Time: 32 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:30:32:223]ConnectSuccess
+[info][2017-03-31 12:30:35:643]3/31/2017 12:30:35 PM Disconnect!
+[key][2017-03-31 12:30:39:508]LuaManager初始化好了
+[key][2017-03-31 12:30:39:535]GameMode:0
+[key][2017-03-31 12:30:39:544]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:30:43:201]ConnectToServer
+[info][2017-03-31 12:30:43:245]Time: 43 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:30:43:335]ConnectSuccess
+[info][2017-03-31 12:30:49:152]3/31/2017 12:30:49 PM Disconnect!
+[key][2017-03-31 12:30:53:013]LuaManager初始化好了
+[key][2017-03-31 12:30:53:040]GameMode:0
+[key][2017-03-31 12:30:53:049]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:30:53:773]ConnectToServer
+[info][2017-03-31 12:30:53:813]Time: 53 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:30:53:898]ConnectSuccess
+[info][2017-03-31 12:31:13:408]ConnectToServer
+[info][2017-03-31 12:31:13:479]3/31/2017 12:31:13 PM Disconnect!
+[info][2017-03-31 12:31:13:550]Time: 13 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:31:13:656]ConnectSuccess
+[info][2017-03-31 12:31:28:558]3/31/2017 12:31:28 PM Disconnect!
+[key][2017-03-31 12:31:32:486]LuaManager初始化好了
+[key][2017-03-31 12:31:32:513]GameMode:0
+[key][2017-03-31 12:31:32:522]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:31:33:355]ConnectToServer
+[info][2017-03-31 12:31:33:420]Time: 33 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:31:33:514]ConnectSuccess
+[info][2017-03-31 12:31:48:153]3/31/2017 12:31:48 PM Disconnect!
+[key][2017-03-31 12:31:52:877]LuaManager初始化好了
+[key][2017-03-31 12:31:52:903]GameMode:0
+[key][2017-03-31 12:31:52:914]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:31:54:600]ConnectToServer
+[info][2017-03-31 12:31:54:684]Time: 54 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:31:54:798]ConnectSuccess
+[info][2017-03-31 12:31:54:894]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 12:31:54:905]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 12:31:54:964]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 12:32:12:003]ConnectToServer
+[info][2017-03-31 12:32:12:074]3/31/2017 12:32:12 PM Disconnect!
+[info][2017-03-31 12:32:12:142]Time: 12 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:32:12:278]ConnectSuccess
+[info][2017-03-31 12:32:12:365]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 12:32:12:427]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 12:32:12:554]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 12:32:12:619]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 12:32:12:684]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[error][2017-03-31 12:32:13:061]客户端版本错误！！ 8194
+[info][2017-03-31 12:32:22:981]3/31/2017 12:32:22 PM Disconnect!
+[key][2017-03-31 12:32:27:263]LuaManager初始化好了
+[key][2017-03-31 12:32:27:291]GameMode:0
+[key][2017-03-31 12:32:27:300]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:32:28:802]ConnectToServer
+[info][2017-03-31 12:32:28:836]Time: 28 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:32:28:934]ConnectSuccess
+[info][2017-03-31 12:32:29:041]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 12:32:29:050]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 12:32:29:101]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 12:32:29:108]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 12:32:29:113]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 12:32:30:838]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 12:32:30:846]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 12:32:32:191]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:36:189]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:36:732]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:37:846]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:40:826]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:42:747]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:45:566]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:46:604]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:46:652]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:46:985]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:46:993]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:47:051]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:47:295]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:47:300]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:47:331]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:47:377]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:47:689]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:47:711]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:48:810]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:51:448]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:51:495]CharacterStateType.ATTACK
+[info][2017-03-31 12:32:52:850]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:52:945]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:52:965]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:32:56:945]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:33:03:796]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:37:51:790]Receive MSG: NetworkMsg  MSG_FRIEND_STATUS
+
+[info][2017-03-31 12:37:58:907]3/31/2017 12:37:58 PM Disconnect!
+[key][2017-03-31 12:38:03:472]LuaManager初始化好了
+[key][2017-03-31 12:38:03:510]GameMode:0
+[key][2017-03-31 12:38:03:524]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:38:08:734]ConnectToServer
+[info][2017-03-31 12:38:08:812]Time: 8 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:38:09:019]ConnectSuccess
+[info][2017-03-31 12:38:12:739]3/31/2017 12:38:12 PM Disconnect!
+[key][2017-03-31 12:38:18:142]LuaManager初始化好了
+[key][2017-03-31 12:38:18:170]GameMode:0
+[key][2017-03-31 12:38:18:179]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:38:19:132]ConnectToServer
+[info][2017-03-31 12:38:19:184]Time: 19 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:38:19:351]ConnectSuccess
+[info][2017-03-31 12:38:28:029]3/31/2017 12:38:28 PM Disconnect!
+[key][2017-03-31 12:38:32:811]LuaManager初始化好了
+[key][2017-03-31 12:38:32:836]GameMode:0
+[key][2017-03-31 12:38:32:846]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:38:36:403]ConnectToServer
+[info][2017-03-31 12:38:36:477]Time: 36 ip:10.0.128.183 port:8001
+[info][2017-03-31 12:38:36:609]ConnectSuccess
+[info][2017-03-31 12:38:36:720]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 12:38:36:737]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 12:38:36:763]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 12:38:36:774]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 12:38:36:815]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 12:38:39:603]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 12:39:05:121]3/31/2017 12:39:05 PM Disconnect!
+[key][2017-03-31 12:39:15:309]LuaManager初始化好了
+[key][2017-03-31 12:39:15:371]GameMode:0
+[key][2017-03-31 12:39:15:392]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:39:16:454]ConnectToServer
+[info][2017-03-31 12:39:16:520]Time: 16 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:39:16:661]ConnectSuccess
+[info][2017-03-31 12:39:19:822]3/31/2017 12:39:19 PM Disconnect!
+[key][2017-03-31 12:39:37:782]LuaManager初始化好了
+[key][2017-03-31 12:39:37:842]GameMode:0
+[key][2017-03-31 12:39:37:864]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:39:40:268]ConnectToServer
+[info][2017-03-31 12:39:40:345]Time: 40 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:39:40:559]ConnectSuccess
+[info][2017-03-31 12:39:46:618]3/31/2017 12:39:46 PM Disconnect!
+[key][2017-03-31 12:39:51:845]LuaManager初始化好了
+[key][2017-03-31 12:39:51:882]GameMode:0
+[key][2017-03-31 12:39:51:896]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:39:53:236]ConnectToServer
+[info][2017-03-31 12:39:53:310]Time: 53 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:39:53:518]ConnectSuccess
+[info][2017-03-31 12:39:55:795]3/31/2017 12:39:55 PM Disconnect!
+[key][2017-03-31 12:40:01:012]LuaManager初始化好了
+[key][2017-03-31 12:40:01:071]GameMode:0
+[key][2017-03-31 12:40:01:094]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 12:40:06:810]ConnectToServer
+[info][2017-03-31 12:40:06:887]Time: 6 ip:42.62.22.60 port:8001
+[info][2017-03-31 12:40:07:026]ConnectSuccess
+[info][2017-03-31 12:40:07:166]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 12:40:10:304]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 12:40:10:619]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 12:40:10:626]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 12:40:10:632]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 12:40:12:155]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 12:40:12:172]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 12:40:12:793]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:15:465]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:16:542]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:20:262]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:20:842]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:22:550]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:23:525]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:24:566]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:24:613]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:24:906]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:24:917]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:24:927]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:24:938]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:25:011]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:25:110]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:25:160]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:25:207]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:25:455]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:26:522]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:28:379]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:28:420]CharacterStateType.ATTACK
+[info][2017-03-31 12:40:29:700]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:29:719]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:29:786]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:29:801]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:29:858]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:30:380]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:33:588]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:36:238]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:36:274]CharacterStateType.ATTACK
+[info][2017-03-31 12:40:37:543]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:37:599]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:37:645]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:37:694]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:37:710]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:38:822]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:40:479]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:40:564]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:40:51:228]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 12:40:51:245]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 12:40:51:858]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:21:243]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:21:779]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:24:581]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:27:641]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:29:430]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:31:898]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:32:398]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:32:662]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:32:678]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:32:691]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:32:744]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:32:759]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:32:764]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:32:882]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:32:919]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:33:161]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:33:178]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:33:742]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:36:519]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:36:555]CharacterStateType.ATTACK
+[info][2017-03-31 12:41:37:739]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:37:755]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:37:823]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:37:840]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:37:914]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:38:422]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:41:248]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:41:279]CharacterStateType.ATTACK
+[info][2017-03-31 12:41:42:482]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:42:567]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:42:661]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:42:712]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:42:760]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:43:883]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:47:983]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:48:020]CharacterStateType.ATTACK
+[info][2017-03-31 12:41:49:301]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:49:349]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:49:399]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:49:415]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:49:605]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:41:50:680]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:05:378]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:05:522]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:07:702]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:21:103]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 12:42:21:119]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 12:42:21:709]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:23:128]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:23:670]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:24:609]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:33:306]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:54:291]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:57:067]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:57:552]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:57:809]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:57:817]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:57:823]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:57:895]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:58:102]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:58:107]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:58:136]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:58:169]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:58:325]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:58:347]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:42:58:907]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:43:01:909]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:43:01:946]CharacterStateType.ATTACK
+[info][2017-03-31 12:43:03:146]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:43:03:211]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:43:03:283]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:43:06:787]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:43:21:487]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:43:36:710]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:43:51:409]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:06:633]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:21:847]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:26:167]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:26:204]CharacterStateType.ATTACK
+[info][2017-03-31 12:44:26:785]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:27:866]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:32:300]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:33:967]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:34:001]CharacterStateType.ATTACK
+[info][2017-03-31 12:44:34:568]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:35:649]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:42:342]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:42:373]CharacterStateType.ATTACK
+[info][2017-03-31 12:44:43:023]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:43:571]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:44:729]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:44:767]CharacterStateType.ATTACK
+[info][2017-03-31 12:44:45:286]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:45:892]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:47:166]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:47:206]CharacterStateType.ATTACK
+[info][2017-03-31 12:44:47:790]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:48:887]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:49:373]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:49:409]CharacterStateType.ATTACK
+[info][2017-03-31 12:44:49:967]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:50:507]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:51:663]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:51:694]CharacterStateType.ATTACK
+[info][2017-03-31 12:44:52:208]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:52:746]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:53:313]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:53:351]CharacterStateType.ATTACK
+[info][2017-03-31 12:44:53:949]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:55:648]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:44:55:706]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 12:55:28:128]3/31/2017 12:55:28 PM Disconnect!
+[key][2017-03-31 14:29:04:007]LuaManager初始化好了
+[key][2017-03-31 14:29:04:036]GameMode:0
+[key][2017-03-31 14:29:04:046]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 14:29:05:183]ConnectToServer
+[info][2017-03-31 14:29:05:260]Time: 5 ip:42.62.22.60 port:8001
+[info][2017-03-31 14:29:05:478]ConnectSuccess
+[info][2017-03-31 14:29:05:702]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 14:29:05:731]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 14:29:05:795]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 14:29:05:815]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 14:29:05:830]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 14:29:10:903]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-03-31 14:29:16:114]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-03-31 14:29:17:597]Receive MSG: NetworkMsg  MSG_FRIEND_GETINFO
+
+[info][2017-03-31 14:34:31:856]Receive MSG: NetworkMsg  MSG_FRIEND_STATUS
+
+[info][2017-03-31 14:34:36:715]Receive MSG: NetworkMsg  MSG_FRIEND_STATUS
+
+[info][2017-03-31 14:36:45:616]Receive MSG: NetworkMsg  MSG_FRIEND_STATUS
+
+[key][2017-03-31 14:55:01:365]LuaManager初始化好了
+[key][2017-03-31 14:55:01:393]GameMode:0
+[key][2017-03-31 14:55:01:403]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 14:56:25:069]ConnectToServer
+[info][2017-03-31 14:56:25:146]Time: 25 ip:42.62.22.60 port:8001
+[info][2017-03-31 14:56:25:293]ConnectSuccess
+[info][2017-03-31 14:56:25:455]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 14:56:25:499]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 14:56:25:553]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 14:56:25:564]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 14:56:25:569]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 14:56:27:798]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 14:56:28:963]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[error][2017-03-31 14:56:28:989]RSP MSG ERR : ProtoBuf.ProtoException: Unexpected boolean value
+  at ProtoBuf.ProtoReader.ReadBoolean () [0x0001e] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\ProtoReader.cs:876 
+  at ProtoBuf.Serializers.BooleanSerializer.Read (System.Object value, ProtoBuf.ProtoReader source) [0x00009] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializers\BooleanSerializer.cs:40 
+  at ProtoBuf.Serializers.TagDecorator.Read (System.Object value, ProtoBuf.ProtoReader source) [0x00046] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializers\TagDecorator.cs:80 
+  at ProtoBuf.Serializers.ListDecorator.Read (System.Object value, ProtoBuf.ProtoReader source) [0x000e9] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializers\ListDecorator.cs:525 
+  at ProtoBuf.Serializers.PropertyDecorator.Read (System.Object value, ProtoBuf.ProtoReader source) [0x00030] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializers\PropertyDecorator.cs:77 
+  at ProtoBuf.Serializers.TypeSerializer.Read (System.Object value, ProtoBuf.ProtoReader source) [0x000e4] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializers\TypeSerializer.cs:227 
+  at ProtoBuf.Meta.RuntimeTypeModel.Deserialize (Int32 key, System.Object value, ProtoBuf.ProtoReader source) [0x0004e] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Meta\RuntimeTypeModel.cs:775 
+  at ProtoBuf.Meta.TypeModel.DeserializeCore (ProtoBuf.ProtoReader reader, System.Type type, System.Object value, Boolean noAutoCreate) [0x0001b] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Meta\TypeModel.cs:700 
+  at ProtoBuf.Meta.TypeModel.Deserialize (System.IO.Stream source, System.Object value, System.Type type, ProtoBuf.SerializationContext context) [0x00024] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Meta\TypeModel.cs:589 
+  at ProtoBuf.Meta.TypeModel.Deserialize (System.IO.Stream source, System.Object value, System.Type type) [0x00000] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Meta\TypeModel.cs:566 
+  at ProtoBuf.Serializer.Deserialize[SitDown] (System.IO.Stream source) [0x00000] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializer.cs:77 
+  at Network.CMD_SITDOWN (.NetworkMsg msg) [0x00012] in F:\123\CrazyTank\client\Assets\Scripts\Network\Network_Solve.cs:105 
+  at Connector.ScanMSGs () [0x0022d] in F:\123\CrazyTank\client\Assets\Scripts\Network\Connector.cs:507 
+[info][2017-03-31 14:56:32:986]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 14:56:39:495]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 14:56:39:509]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 14:56:39:548]Receive MSG: NetworkMsg  MSG_FRIEND_STATUS
+
+[info][2017-03-31 14:59:40:926]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 14:59:40:942]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[error][2017-03-31 14:59:40:958]RSP MSG ERR : ProtoBuf.ProtoException: Unexpected boolean value
+  at ProtoBuf.ProtoReader.ReadBoolean () [0x0001e] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\ProtoReader.cs:876 
+  at ProtoBuf.Serializers.BooleanSerializer.Read (System.Object value, ProtoBuf.ProtoReader source) [0x00009] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializers\BooleanSerializer.cs:40 
+  at ProtoBuf.Serializers.TagDecorator.Read (System.Object value, ProtoBuf.ProtoReader source) [0x00046] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializers\TagDecorator.cs:80 
+  at ProtoBuf.Serializers.ListDecorator.Read (System.Object value, ProtoBuf.ProtoReader source) [0x000e9] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializers\ListDecorator.cs:525 
+  at ProtoBuf.Serializers.PropertyDecorator.Read (System.Object value, ProtoBuf.ProtoReader source) [0x00030] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializers\PropertyDecorator.cs:77 
+  at ProtoBuf.Serializers.TypeSerializer.Read (System.Object value, ProtoBuf.ProtoReader source) [0x000e4] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializers\TypeSerializer.cs:227 
+  at ProtoBuf.Meta.RuntimeTypeModel.Deserialize (Int32 key, System.Object value, ProtoBuf.ProtoReader source) [0x0004e] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Meta\RuntimeTypeModel.cs:775 
+  at ProtoBuf.Meta.TypeModel.DeserializeCore (ProtoBuf.ProtoReader reader, System.Type type, System.Object value, Boolean noAutoCreate) [0x0001b] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Meta\TypeModel.cs:700 
+  at ProtoBuf.Meta.TypeModel.Deserialize (System.IO.Stream source, System.Object value, System.Type type, ProtoBuf.SerializationContext context) [0x00024] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Meta\TypeModel.cs:589 
+  at ProtoBuf.Meta.TypeModel.Deserialize (System.IO.Stream source, System.Object value, System.Type type) [0x00000] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Meta\TypeModel.cs:566 
+  at ProtoBuf.Serializer.Deserialize[SitDown] (System.IO.Stream source) [0x00000] in F:\123\CrazyTank\client\Assets\Libs\protobuf\protobuf-net\Serializer.cs:77 
+  at Network.CMD_SITDOWN (.NetworkMsg msg) [0x00012] in F:\123\CrazyTank\client\Assets\Scripts\Network\Network_Solve.cs:105 
+  at Connector.ScanMSGs () [0x0022d] in F:\123\CrazyTank\client\Assets\Scripts\Network\Connector.cs:507 
+[info][2017-03-31 14:59:46:282]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 14:59:52:729]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 14:59:57:429]3/31/2017 2:59:57 PM Disconnect!
+[key][2017-03-31 15:00:09:977]LuaManager初始化好了
+[key][2017-03-31 15:00:10:025]GameMode:0
+[key][2017-03-31 15:00:10:042]GameManager初始化好了，游戏正式开始。
+[key][2017-03-31 15:00:17:674]LuaManager初始化好了
+[key][2017-03-31 15:00:17:712]GameMode:0
+[key][2017-03-31 15:00:17:726]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 15:00:19:413]ConnectToServer
+[info][2017-03-31 15:00:19:447]Time: 19 ip:42.62.22.60 port:8001
+[info][2017-03-31 15:00:19:530]ConnectSuccess
+[info][2017-03-31 15:00:19:676]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 15:00:19:738]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 15:00:19:851]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:00:19:907]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:00:19:958]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 15:00:24:307]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 15:00:24:325]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 15:00:34:053]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:00:44:471]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:00:44:488]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:01:56:494]3/31/2017 3:01:56 PM Disconnect!
+[key][2017-03-31 15:02:01:071]LuaManager初始化好了
+[key][2017-03-31 15:02:01:110]GameMode:0
+[key][2017-03-31 15:02:01:120]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 15:02:05:017]ConnectToServer
+[info][2017-03-31 15:02:05:093]Time: 5 ip:42.62.22.60 port:8001
+[info][2017-03-31 15:02:05:310]ConnectSuccess
+[info][2017-03-31 15:02:05:499]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 15:02:05:559]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 15:02:05:657]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:02:05:693]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:02:05:727]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 15:02:08:263]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 15:02:08:282]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 15:03:23:189]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:03:23:212]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:03:23:280]Receive MSG: NetworkMsg  MSG_FRIEND_STATUS
+
+[info][2017-03-31 15:03:48:084]3/31/2017 3:03:48 PM Disconnect!
+[key][2017-03-31 15:03:53:330]LuaManager初始化好了
+[key][2017-03-31 15:03:53:372]GameMode:0
+[key][2017-03-31 15:03:53:386]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 15:03:58:052]ConnectToServer
+[info][2017-03-31 15:03:58:132]Time: 58 ip:42.62.22.60 port:8001
+[info][2017-03-31 15:03:58:331]ConnectSuccess
+[info][2017-03-31 15:03:58:461]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 15:03:58:502]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 15:03:58:576]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:03:58:600]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:03:58:621]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 15:04:00:217]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 15:04:00:235]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 15:04:50:147]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:04:50:169]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:04:50:238]Receive MSG: NetworkMsg  MSG_FRIEND_STATUS
+
+[info][2017-03-31 15:04:52:546]3/31/2017 3:04:52 PM Disconnect!
+[key][2017-03-31 15:04:56:669]LuaManager初始化好了
+[key][2017-03-31 15:04:56:694]GameMode:0
+[key][2017-03-31 15:04:56:704]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 15:05:03:055]ConnectToServer
+[info][2017-03-31 15:05:03:095]Time: 3 ip:42.62.22.60 port:8001
+[info][2017-03-31 15:05:03:199]ConnectSuccess
+[info][2017-03-31 15:05:03:336]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 15:05:03:380]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 15:05:03:464]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:05:03:524]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:05:03:581]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 15:05:05:787]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 15:05:05:803]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 15:05:08:965]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:05:17:290]3/31/2017 3:05:17 PM Disconnect!
+[key][2017-03-31 15:07:11:773]LuaManager初始化好了
+[key][2017-03-31 15:07:11:800]GameMode:0
+[key][2017-03-31 15:07:11:809]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 15:07:34:707]ConnectToServer
+[info][2017-03-31 15:07:34:786]Time: 34 ip:42.62.22.60 port:8001
+[info][2017-03-31 15:07:35:004]ConnectSuccess
+[info][2017-03-31 15:07:35:207]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 15:07:35:270]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 15:07:35:361]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:07:35:368]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:07:35:373]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 15:07:37:401]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 15:07:37:420]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 15:07:39:518]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:40:856]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:41:396]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:46:245]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:49:104]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:51:395]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:52:469]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:53:505]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:53:862]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:53:871]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:53:878]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:53:884]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:53:891]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:53:964]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:54:079]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:54:099]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:54:145]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:54:384]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:55:474]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:57:580]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:57:620]CharacterStateType.ATTACK
+[info][2017-03-31 15:07:58:680]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:07:59:784]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:08:02:005]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:08:02:031]CharacterStateType.ATTACK
+[info][2017-03-31 15:08:02:966]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:08:03:502]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:08:07:302]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:08:08:725]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:08:26:484]Receive MSG: NetworkMsg  MSG_FRIEND_DEL_NOTIFY
+
+[info][2017-03-31 15:08:30:757]3/31/2017 3:08:30 PM Disconnect!
+[key][2017-03-31 15:08:35:165]LuaManager初始化好了
+[key][2017-03-31 15:08:35:191]GameMode:0
+[key][2017-03-31 15:08:35:201]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 15:08:39:761]ConnectToServer
+[info][2017-03-31 15:08:39:840]Time: 39 ip:42.62.22.60 port:8001
+[info][2017-03-31 15:08:40:000]ConnectSuccess
+[info][2017-03-31 15:08:40:133]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 15:08:40:170]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 15:08:40:239]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:08:40:268]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:08:40:295]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 15:08:48:565]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 15:08:49:893]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 15:08:51:975]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:08:54:345]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:08:54:894]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:09:04:338]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:09:04:353]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:09:06:582]3/31/2017 3:09:06 PM Disconnect!
+[key][2017-03-31 15:20:22:090]LuaManager初始化好了
+[key][2017-03-31 15:20:22:118]GameMode:0
+[key][2017-03-31 15:20:22:128]GameManager初始化好了，游戏正式开始。
+[key][2017-03-31 15:24:04:661]LuaManager初始化好了
+[key][2017-03-31 15:24:04:688]GameMode:0
+[key][2017-03-31 15:24:04:699]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 15:24:05:721]ConnectToServer
+[info][2017-03-31 15:24:05:798]Time: 5 ip:42.62.22.60 port:8001
+[info][2017-03-31 15:24:05:943]ConnectSuccess
+[info][2017-03-31 15:24:06:038]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 15:24:06:048]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 15:24:06:096]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:24:06:104]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:24:06:109]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 15:24:08:030]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 15:24:08:049]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 15:24:08:962]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:10:518]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:11:056]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:12:679]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:15:982]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:17:470]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:22:519]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:23:004]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:23:326]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:23:333]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:23:339]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:23:411]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:23:644]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:23:649]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:23:686]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:23:732]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:24:438]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:24:982]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:26:079]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:30:562]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:30:610]CharacterStateType.ATTACK
+[info][2017-03-31 15:24:31:607]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:31:706]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:31:946]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:32:016]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:32:034]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:33:064]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:34:715]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:34:747]CharacterStateType.ATTACK
+[info][2017-03-31 15:24:35:745]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:35:861]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:36:037]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:36:187]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:36:203]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:37:263]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:39:125]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:39:165]CharacterStateType.ATTACK
+[info][2017-03-31 15:24:40:243]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:40:520]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:40:601]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:40:647]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:40:764]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:41:320]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:45:979]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:46:014]CharacterStateType.ATTACK
+[info][2017-03-31 15:24:47:277]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:47:406]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:47:447]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:47:575]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:47:594]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:24:48:142]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:08:404]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:11:921]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:14:104]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:16:997]3/31/2017 3:25:16 PM Disconnect!
+[key][2017-03-31 15:25:21:413]LuaManager初始化好了
+[key][2017-03-31 15:25:21:452]GameMode:0
+[key][2017-03-31 15:25:21:466]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 15:25:25:023]ConnectToServer
+[info][2017-03-31 15:25:25:105]Time: 25 ip:42.62.22.60 port:8001
+[info][2017-03-31 15:25:25:327]ConnectSuccess
+[info][2017-03-31 15:25:25:476]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 15:25:25:546]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 15:25:25:697]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:25:25:757]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 15:25:25:803]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 15:25:27:742]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 15:25:44:751]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 15:25:46:951]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:48:348]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:49:431]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:50:530]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:53:589]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:55:285]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:58:586]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:59:072]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:59:397]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:59:410]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:59:421]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:59:490]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:59:734]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:59:740]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:59:783]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:25:59:830]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:00:098]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:00:143]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:01:210]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:05:444]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:05:474]CharacterStateType.ATTACK
+[info][2017-03-31 15:26:06:318]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:06:365]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:06:474]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:06:505]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:06:858]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:07:389]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:11:764]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:11:803]CharacterStateType.ATTACK
+[info][2017-03-31 15:26:12:986]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:13:003]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:13:136]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:13:161]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:13:253]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:14:328]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:16:775]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:16:807]CharacterStateType.ATTACK
+[info][2017-03-31 15:26:18:131]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:18:284]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:18:300]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:18:433]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:18:516]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:19:045]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:23:086]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:23:127]CharacterStateType.ATTACK
+[info][2017-03-31 15:26:24:585]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:24:601]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:24:613]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:24:625]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:24:710]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:25:203]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:26:45:330]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:27:05:448]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:27:25:046]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:27:45:168]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:28:05:285]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:28:25:388]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:28:44:924]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:29:05:048]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:29:25:188]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:29:45:285]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:01:098]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:03:686]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:06:476]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:09:828]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:09:867]CharacterStateType.ATTACK
+[info][2017-03-31 15:30:11:308]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:11:325]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:11:342]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:11:478]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:11:487]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:11:984]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:20:941]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:20:975]CharacterStateType.ATTACK
+[info][2017-03-31 15:30:22:447]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:22:459]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:22:566]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:22:610]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:22:630]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:23:168]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:43:268]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:45:190]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 15:30:47:377]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:06:51:109]3/31/2017 4:06:51 PM Disconnect!
+[key][2017-03-31 16:12:59:542]LuaManager初始化好了
+[key][2017-03-31 16:12:59:576]GameMode:0
+[key][2017-03-31 16:12:59:588]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 16:13:02:595]ConnectToServer
+[info][2017-03-31 16:13:02:673]Time: 2 ip:42.62.22.60 port:8001
+[info][2017-03-31 16:13:02:888]ConnectSuccess
+[info][2017-03-31 16:13:03:077]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 16:13:03:134]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 16:13:03:240]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 16:13:03:289]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 16:13:03:337]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 16:13:05:193]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 16:13:05:211]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 16:13:06:445]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:07:767]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:08:307]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:09:351]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:12:415]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:18:254]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:19:070]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:109]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:402]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:412]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:420]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:428]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:436]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:493]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:649]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:702]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:944]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:20:976]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:22:052]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:24:010]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:24:057]CharacterStateType.ATTACK
+[info][2017-03-31 16:13:25:230]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:25:298]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:25:366]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:25:383]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:25:399]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:25:934]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:29:837]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:29:868]CharacterStateType.ATTACK
+[info][2017-03-31 16:13:31:052]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:31:136]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:31:236]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:31:312]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:31:364]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:31:912]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:34:090]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:34:128]CharacterStateType.ATTACK
+[info][2017-03-31 16:13:35:428]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:35:470]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:35:509]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:35:520]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:35:733]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:36:270]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:13:56:400]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:14:15:948]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:14:36:069]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:14:43:869]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:14:44:951]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:14:45:754]3/31/2017 4:14:45 PM Disconnect!
+[key][2017-03-31 16:14:50:350]LuaManager初始化好了
+[key][2017-03-31 16:14:50:377]GameMode:0
+[key][2017-03-31 16:14:50:388]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 16:14:51:530]ConnectToServer
+[info][2017-03-31 16:14:51:611]Time: 51 ip:42.62.22.60 port:8001
+[info][2017-03-31 16:14:51:810]ConnectSuccess
+[info][2017-03-31 16:14:51:999]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 16:14:52:075]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 16:14:52:213]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 16:14:52:280]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 16:14:52:341]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 16:14:54:205]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 16:15:05:714]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 16:15:06:515]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:08:084]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:09:155]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:10:601]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:14:241]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:15:604]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:19:002]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:20:043]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:20:364]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:20:377]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:20:388]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:20:471]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:20:763]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:20:767]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:20:799]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:20:856]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:20:864]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:21:181]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:22:265]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:25:307]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:25:352]CharacterStateType.ATTACK
+[info][2017-03-31 16:15:26:319]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:26:407]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:26:748]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:26:759]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:26:771]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:27:305]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:33:064]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:33:102]CharacterStateType.ATTACK
+[info][2017-03-31 16:15:34:144]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:34:229]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:34:539]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:34:607]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:34:626]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:35:102]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:15:55:246]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:16:15:324]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:16:35:419]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:16:55:007]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:17:15:123]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:17:35:359]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:17:54:923]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:18:15:022]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:18:35:121]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 16:18:51:917]3/31/2017 4:18:51 PM Disconnect!
+[key][2017-03-31 18:22:59:497]LuaManager初始化好了
+[key][2017-03-31 18:22:59:523]GameMode:0
+[key][2017-03-31 18:22:59:533]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 18:23:04:804]ConnectToServer
+[info][2017-03-31 18:23:04:889]Time: 4 ip:42.62.22.60 port:8001
+[info][2017-03-31 18:23:05:110]ConnectSuccess
+[info][2017-03-31 18:23:05:327]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 18:23:05:412]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 18:23:05:567]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 18:23:05:624]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 18:23:05:653]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 18:23:08:774]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 18:23:08:792]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 18:23:10:926]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:12:949]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:14:047]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:15:422]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:16:053]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:19:374]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:23:730]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:24:234]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:24:285]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:24:625]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:24:641]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:24:657]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:24:674]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:24:785]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:25:054]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:25:076]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:25:123]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:25:401]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:25:923]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:29:076]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:29:108]CharacterStateType.ATTACK
+[info][2017-03-31 18:23:30:309]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:30:332]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:30:407]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:30:414]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:30:453]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:30:991]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:39:335]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:39:358]CharacterStateType.ATTACK
+[info][2017-03-31 18:23:40:594]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:40:681]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:40:784]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:40:912]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:41:030]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:42:093]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:50:168]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:55:980]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:56:689]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:57:252]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:23:58:228]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:01:566]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:02:324]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:04:429]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:04:445]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:10:274]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:12:273]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:16:919]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:17:427]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:18:494]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:18:618]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:21:595]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:22:058]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:26:239]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:26:277]CharacterStateType.ATTACK
+[info][2017-03-31 18:24:26:608]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:27:152]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:30:489]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:33:520]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:33:651]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:36:352]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:36:669]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:46:678]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:47:889]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:52:899]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:52:915]CharacterStateType.ATTACK
+[info][2017-03-31 18:24:54:923]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:57:349]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:24:57:439]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:04:161]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 18:25:04:174]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 18:25:04:868]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:05:150]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:06:253]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:07:212]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:08:732]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:10:154]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:15:122]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:16:169]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:16:205]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:16:388]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:16:404]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:16:481]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:16:787]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:16:792]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:16:805]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:16:852]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:17:225]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:17:249]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:18:332]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:20:573]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:20:609]CharacterStateType.ATTACK
+[info][2017-03-31 18:25:21:931]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:22:229]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:22:240]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:22:251]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:22:262]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:23:312]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:24:248]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:24:734]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:24:933]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:25:212]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:25:752]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:25:932]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:27:718]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:27:737]CharacterStateType.ATTACK
+[info][2017-03-31 18:25:29:188]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:29:205]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:29:221]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:29:396]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:29:422]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:29:968]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:31:233]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:31:257]CharacterStateType.ATTACK
+[info][2017-03-31 18:25:32:734]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:32:778]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:32:790]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:32:800]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:32:916]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:33:390]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:37:644]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:39:573]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:42:380]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:42:403]CharacterStateType.ATTACK
+[info][2017-03-31 18:25:43:875]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:43:886]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:43:988]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:44:062]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:44:088]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:25:45:168]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:26:05:312]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:26:24:931]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:26:41:770]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:26:43:611]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:26:44:018]3/31/2017 6:26:44 PM Disconnect!
+[key][2017-03-31 18:29:47:101]LuaManager初始化好了
+[key][2017-03-31 18:29:47:129]GameMode:0
+[key][2017-03-31 18:29:47:138]GameManager初始化好了，游戏正式开始。
+[info][2017-03-31 18:29:50:308]ConnectToServer
+[info][2017-03-31 18:29:50:384]Time: 50 ip:42.62.22.60 port:8001
+[info][2017-03-31 18:29:50:603]ConnectSuccess
+[info][2017-03-31 18:29:50:726]Receive MSG: NetworkMsg  CMD_LOGIN
+
+[info][2017-03-31 18:29:50:739]Receive MSG: NetworkMsg  CMD_ROLE
+
+[info][2017-03-31 18:29:50:788]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 18:29:50:797]Receive MSG: NetworkMsg  CMD_ENTERROOM
+
+[info][2017-03-31 18:29:50:803]Receive MSG: NetworkMsg  MSG_FRIEND_ARRAY
+
+[info][2017-03-31 18:29:52:644]Receive MSG: NetworkMsg  CMD_MAP_MATCH
+
+[info][2017-03-31 18:29:52:653]Receive MSG: NetworkMsg  CMD_SITDOWN
+
+[info][2017-03-31 18:29:53:405]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:30:22:687]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:30:23:225]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:31:27:940]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-03-31 18:31:27:976]Receive MSG: NetworkMsg  CMD_PUSHGAMEDATA
+
+[info][2017-04-01 11:19:18:179]4/1/2017 11:19:18 AM Disconnect!

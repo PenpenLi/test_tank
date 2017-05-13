@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: 3b5d6e7c707eced4086c5bbfed31034b
+folderAsset: yes
+timeCreated: 1491360633
+=======
+guid: c2fc27c0e8730014b8c6e2c0eea99bc8
+folderAsset: yes
+timeCreated: 1491363368
+>>>>>>> fixing 跟踪炮bug
+licenseType: Pro
+=======
+guid: 30526f0038ea72c44993c84b4fe0fa4b
+folderAsset: yes
+timeCreated: 1491363505
+licenseType: Free
+>>>>>>> information UI
+DefaultImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

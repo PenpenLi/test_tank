@@ -1,0 +1,19 @@
+<map bound_left="50" bound_top="800" bound_right="1400" bound_bottom="0"
+    gravity="-10" air_resistance="0" wind_range="300" wind_step="150"
+    camera_margin_x="0.2" camera_margin_y="0.2" camera_smooth_x="5" camera_smooth_y="5"
+    camera_min_x="7.10" camera_min_y="4" camera_max_x="7.1" camera_max_y="4">
+  <born_pos>
+    <item team="1" pos_x="1150" pos_y="388" face="-1" />
+    <item team="2" pos_x="400" pos_y="388" face="1" />
+
+
+  </born_pos>
+  <background>
+    <item resource="Map/background_2" pos_x="0" pos_y="0" width ="1420" height ="800"/>
+  </background>
+  <terrain>
+    <item resource="Map/terrain_2" pos_x="0" pos_y="0" width ="1420" height ="800" digable="true"/>
+  </terrain>
+  <zsort_layer>
+  </zsort_layer>
+</map>

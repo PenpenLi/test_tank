@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2e68b621449a96147a8de21cdb0e94b2, type: 3}
+  m_Name: spiritBase
+  m_EditorClassIdentifier: 
+  m_iEffectID: 1
+  m_arrSpiritStates:
+  - {fileID: 11400000, guid: 646667473f1b21f49be376a9a7a23136, type: 2}
+  - {fileID: 11400000, guid: 646667473f1b21f49be376a9a7a23136, type: 2}
+  - {fileID: 11400000, guid: 646667473f1b21f49be376a9a7a23136, type: 2}
+  m_pAnimation: {fileID: 139232, guid: d41328852dad03547ae8df0e1c1a55e0, type: 2}
+  m_arrAnimationNames:
+  - 
+  - 
+  - 

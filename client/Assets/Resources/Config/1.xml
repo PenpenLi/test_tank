@@ -1,0 +1,59 @@
+﻿<!--
+    bound_left   地图边界-左
+    bound_top    地图边界-上
+    bound_right  地图边界-右
+    bound_bottom 地图边界-下
+
+    gravity 重力
+    air_resistance 空气阻力
+
+相机参数:
+    camera_margin_x 到焦点的X轴距离
+    camera_margin_y 到焦点的Y轴距离
+    camera_smooth_x 水平方向平滑移动参数
+    camera_smooth_y 垂直方向平滑移动参数
+
+    camera_min_x 摄像机可移动到的左下角位置x
+    camera_min_y 摄像机可移动到的左下角位置y
+    camera_max_x 摄像机可移动到的右上角位置x
+    camera_max_y 摄像机可移动到的右上角位置y
+        
+    
+-->
+<map bound_left="50" bound_top="800" bound_right="1400" bound_bottom="0"
+ gravity="-10" air_resistance="0" wind_range="300" wind_step="150"
+    camera_margin_x="0.2" camera_margin_y="0.2" camera_smooth_x="5" camera_smooth_y="5"
+    camera_min_x="7.10" camera_min_y="4.0" camera_max_x="7.10" camera_max_y="4.0">
+  <born_pos>
+    <!--
+            team  队伍
+            pos_x 出生点X
+            pos_y 出生点y
+            face  朝向
+         -->
+    <item team="1" pos_x="1230" pos_y="393" face="-1" />
+    <item team="2" pos_x="300" pos_y="380" face="1" />
+    
+  </born_pos>
+  <background>
+    <!--背景-->
+    <item resource="Map/background_1" pos_x="0" pos_y="0" width ="1420" height ="800"/>
+  </background>
+  <terrain>
+    <!--地形
+            resource 资源地址
+            pos_x,pos_y 位置
+            digable
+                true  可以破坏的地形
+                false 不可以破坏的地形
+        -->
+    <item resource="Map/terrain_1" pos_x="0" pos_y="2" width ="1420" height ="206" digable="true"/>
+  </terrain>
+  <voice_source>
+
+
+
+  </voice_source>
+  <zsort_layer>
+  </zsort_layer>
+</map>

@@ -1,0 +1,27 @@
+<images>
+	
+  <source id="1001" source_="Sprites/Images/icon_1001" text="惊讶"></source>
+  <source id="1002" source_="Sprites/Images/icon_1002" text="呲牙笑"></source>
+  <source id="1003" source_="Sprites/Images/icon_1003" text="色"></source>
+  <source id="1004" source_="Sprites/Images/icon_1004" text="奋斗"></source>
+  <source id="1005" source_="Sprites/Images/icon_1005" text="咦？"></source>
+  <source id="1006" source_="Sprites/Images/icon_1006" text="大苦"></source>
+  <source id="1007" source_="Sprites/Images/icon_1010" text="得意"></source>
+  
+  <source id="1008" source_="Sprites/Images/icon_1012" text="期待"></source>
+  <source id="1009" source_="Sprites/Images/icon_1013" text="睡着了"></source>
+  <source id="1010" source_="Sprites/Images/icon_1014" text="黑脸"></source>
+  <source id="1011" source_="Sprites/Images/icon_1015" text="害羞"></source>
+  <source id="1012" source_="Sprites/Images/icon_1017" text="闭嘴"></source>
+  
+   
+  <chat   id="2001" text="你好呀，朋友。"> </chat>
+  <chat   id="2002" text="来吧，一决胜负吧！"> </chat>
+  <chat   id="2003" text="待会儿有你好看的。"> </chat>
+  <chat   id="2004" text="你打的真棒呀！"> </chat>
+  <chat   id="2005" text="尝尝我的炮弹吧！"> </chat>
+  <chat   id="2006" text="来呀，来打我呀！"> </chat>
+  <chat   id="2007" text="下次我不会失误了！"> </chat>
+  <chat   id="2008" text="怎么样，我厉害吧！"> </chat>
+
+</images>

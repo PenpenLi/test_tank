@@ -1,0 +1,27 @@
+<bombs>
+    <!--
+        config_id 配置id
+        resource_id 资源id
+        shape_path 地形破坏资源
+        border_path 地形破坏边界资源
+
+        mass               质量
+        g_factor           重力因子
+        wind_factor        风速因子
+        air_resit_factor   空气阻力因子
+
+        攻击盒子左下
+        attack_box_min_x
+        attack_box_min_y
+        攻击盒子右上
+        attack_box_max_x
+        attack_box_max_y
+
+        bomb_range 爆炸伤害半径
+    -->
+    <bomb config_id="1" resource_id="100001" shape_path="Common/shape" border_path="Common/border"
+        mass="1" g_factor="100" wind_factor="1" air_resit_factor="1"
+        attack_box_min_x="-30" attack_box_min_y="-30" attack_box_max_x="30" attack_box_max_y="30"
+        bomb_range="100">
+    </bomb>
+</bombs>

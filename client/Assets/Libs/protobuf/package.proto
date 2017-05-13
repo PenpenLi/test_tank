@@ -1,0 +1,344 @@
+
+syntax = "proto2";
+package ProtoTest;
+
+//登录收发body
+message Login{
+ 	required int32 uin = 1;                 //xxxx
+}
+
+message Res_login{
+	required int32 m_nResultID = 1;
+	required int32 m_nPlayerID = 2;
+	required bool m_iHaveRole = 3;
+}
+
+ //创建角色
+message Create_role{
+	required int32 uin = 1;
+	required string name = 2;
+	required int32 sex = 3;
+	required bool checkName = 4;
+	required bool wxLogin = 5;
+	optional string wxHead = 6;
+}
+//返回角色信息
+message Res_roleInfo{
+	required int32 resultID = 1;
+	optional int32 uin = 2;
+	optional string name = 3;
+	optional int32 sex = 4;
+	optional int32 exp = 5;
+	optional int32 gold = 6;
+	optional int32 diamond = 7;
+}
+
+//进入房间收发body
+message enter{
+ 	required int32 m_nRoomID = 1;
+}
+
+message Res_enter {
+	required int32 m_nResultID = 1;
+	required int32 m_iRoomID = 2;
+	required bytes m_szReasonMessage = 3;
+}
+
+//messageID        0x2130
+message PVE_over{
+    required bool m_iWin = 1;
+}
+
+message Res_PVEover{
+	required int32 m_iOverStatus = 1;
+	required int32 m_iGetExp = 2;
+	required int32 m_iGetGold = 3;
+	required int32 m_iGetDiamond = 4;
+}
+
+
+//匹配收发body
+message Merge{
+	required int32 m_iModeID = 1;        //玩家选择的模式
+	required bool cancel = 2;          //是否按了取消匹配
+}
+
+message Res_merge{
+    required int32 m_nresultid = 1;
+	optional int32 m_mapid = 2;	       //xxxx
+	optional int32 m_TableID = 3;
+}
+
+message SitDown{
+	required int32 m_iRoomID = 1;
+	required int32 m_iTableID = 2;
+	required int32 m_cSeatID = 3;
+	required int32 m_iPlayerCount = 4;
+	repeated bool wxLogin = 5;
+	repeated string wxHead = 6;
+}
+
+
+
+//-----------------------游戏中的包体-----------------------------
+
+//-------第一层包体-------
+message OnGame{
+	required bytes gameData = 1;
+	required int32 m_iRoomID = 2;
+	required int32 m_iTableID = 3;
+	required int32 m_icmd = 4;               //gameData process CMD
+	required int32 gameDataLength = 5;
+}
+
+message Res_game{
+	required bytes gameData = 1;
+	required int32 m_iRoomID = 2;
+	required int32 m_iTableID = 3;
+	required int32 m_icmd = 4;
+}
+//    -------第一层包体-------||||||||||||||||
+message OnGameReady{
+	required string m_strName = 1;            //玩家名称
+	required int32 m_iPic = 2;
+}
+
+message Notify_ready{                             //通知其他玩家这个已经准备了
+	required int32 m_iSeat = 1;
+	required int32 m_iPic = 2;
+}
+
+message Res_ready{
+	required int32 m_iSeatSum = 1;
+	repeated string m_strName = 2;
+	required int32 m_iMapID = 3;
+	repeated int32 m_iTeamID = 4;
+	repeated int32 m_aiSeatPlayer = 5;
+}
+
+message OnGameChoose{
+	required int32 m_iTankID = 1;
+	required int32 m_iSkill1 = 2;
+	required int32 m_iSkill2 = 3;
+}
+
+message Notify_choose{                             //通知其他玩家这个已经选择了
+	required int32 m_iTankID = 1;
+	required int32 m_iSeat = 2;
+	required int32 m_iSkill1 = 3;
+	required int32 m_iSkill2 = 4;
+}
+
+message Res_choose{
+	required int32 m_iRound = 1;
+	required int32 m_iOptID = 2;                 //当前回合操作者ID
+	repeated int32 m_iTankID = 3;
+    required int32 m_iRoundTime = 4;           //一回合时间
+}
+
+message OnGameLoading{
+	required int32 m_iOptID = 1;
+	required int32 m_ilen = 2;
+}
+
+message Res_loading{
+	required int32 m_iOptID = 1;
+	required int32 m_ilen = 2;
+}
+
+message OnGameMove{
+	required bool m_iKeyDown = 1;             //按下还是松开
+	required int32 m_iDirection = 2;          //方向
+	required float m_iIntervalTime = 3;        //这个木有用了
+	required float m_iPosX = 4;
+	required float m_iPosY = 5;
+	required int32 m_iOptID = 6;
+}
+
+message Res_move{
+	required int32 m_iRound = 1;
+	required int32 m_iOptID = 2;
+	required bool m_iKeyDown = 3;
+	required int32 m_iDirection = 4;
+	required float m_iIntervalTime = 5;
+	optional float m_iPosX = 6;
+	optional float m_iPosY = 7;
+}
+
+message Res_round{
+	required int32 m_iRound = 1;           //回合数
+	required int32 m_iWind = 2;            //风力随机数
+	required int32 m_iOptID = 3;          //当前回合操作者
+}
+
+message OnGameAttack{
+	required int32 m_iPower = 1;
+	required float m_iAngle = 2;
+	required bool m_iHasBlast = 3;
+	required int32 m_iBombType = 4;
+	optional int32 m_iBombCnt = 5;
+}
+
+message Res_attack{
+	required int32 m_iRound = 1;
+	required int32 m_iOptID = 2;
+	required int32 m_iPower = 3;
+	required float m_iAngle = 4;
+	required int32 m_iBombType = 5;
+	optional int32 m_iBombCnt = 6;
+}
+
+message OnGameBoom{
+	required float m_ix = 1;
+	required float m_iy = 2;
+	required bool Kind = 3;
+	required int32 BombID = 4;
+}
+
+message Res_Boom{
+	required int32 m_iRound = 1;
+	required int32 m_iOptID = 2;
+	required float m_ix = 3;
+	required float m_iy = 4;
+	required bool Kind = 5;
+	required int32 BombID = 6;
+}
+
+message OnGame_HP{
+    required int32 m_iPlayerID = 1;
+    required int32 hpValues = 2;
+}
+
+message OnGameOver{
+	required int32 m_iTeamID = 1;               //本玩家TeamID
+	required bool m_iWin = 2;                   //本玩家结算
+}
+message Res_over{
+	required int32 m_iWinTeamID = 1;
+	required int32 m_iOverStatus = 2;
+	required int32 m_iGetExp = 3;
+	required int32 m_iGetGold = 4;
+	required int32 m_iGetDiamond = 5;
+}
+//quit客户端里面一层发空包
+message Res_quit{
+	required bool m_iQuitOk = 1;
+}
+
+message Notify_disconnect{
+    required int32 m_iOptID = 1;
+}
+
+message OnGame_chat{
+    required int32 m_iChatID = 1;
+}
+
+message Notify_chat{
+    required int32 m_iChatID = 1;
+    required int32 m_iOptID = 2;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+//---------------------好友相关---------------------
+
+
+//msgid = 1  添加好友申请  (result = 0时： 申请添加好友成功/  删除好友成功)
+message Friend_add_del{                          // 收发
+    required string m_NameOther = 1;
+    optional int32 ResultID = 2;             //----收服务器的时候才有这一条
+}
+
+//cmd = 2 删除好友
+//message Friend_add_del{
+
+
+//cmd = 3  进入大厅返回一个列表
+message Friend_array{                         //收
+    required int32 friendCnt = 1;  //拉取好友成功
+    repeated string name = 2;
+    repeated int32 sex = 3;
+    repeated int32 exp = 4;
+    repeated bool online = 5;
+    repeated bool wxLogin = 6;
+    repeated string wxHead = 7;
+    optional int32 v = 8;
+
+}
+
+//cmd = 4    收到被对方加为好友
+message Friend_addNotify{                      //收
+    required string m_NameOther = 1;
+    required int32 m_iSex = 2;
+    required bool online = 3;
+    required bool wxLogin = 4;
+    optional string wxHead = 5;
+}
+
+//cmd =7       收到被对方删除
+message Friend_delNotify{                      //收
+    required string m_NameOther = 1;
+}
+
+      //发送、收到  加好友的结果  (accept ==true 且 result == 0 才加好友成功) 两个客户端都会收到通知
+message Friend_resAddNotify{                  //收发
+    required string Name1 = 1;
+    required string Name2 = 2;
+    required bool accept = 3;
+    optional int32 resultID = 4;
+}
+
+     //查询某个玩家完整信息  (自己 好友 陌生人)
+message Friend_getInfo{                       //发
+    required string m_NameOther = 1;
+}
+
+
+message Friend_resGetInfo{                     //收
+    required int32 resultID = 1;
+    optional string m_NameOther = 2;
+    optional int32 sex = 3;
+    optional int32 exp = 4;
+    optional int32 battleCnt = 5;
+    optional int32 winCnt = 6;
+    optional bool isOnline = 7;
+    optional bool wxLogin = 8;
+    optional string wxHead = 9;
+}
+
+message Friend_notifyStatus{
+    required string m_Name = 1;
+    required bool online = 2;
+}
+
+message Friend_invitation{
+    required string m_NameOther = 1;
+    required int32 m_iOptIDself = 2;
+    optional int32 ResultID = 3;             //----收服务器的时候才有这一条
+}
+
+message Friend_invNotify{                    //收
+    required string m_NameOther = 1;
+    required int32 m_iOptIDother = 2;
+}
+
+message Friend_resInvNotify{                 //收发
+    required int32 m_iOptID1 = 1;
+    required int32 m_iOptID2 = 2;
+    required bool accept = 3;
+    optional int32 resultID = 4;
+}
