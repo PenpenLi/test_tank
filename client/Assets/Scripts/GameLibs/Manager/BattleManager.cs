@@ -381,12 +381,14 @@ namespace TKGame
 
         public void ChangeController()
         {
+            Debug.Log("HHHHHHHHHHHHHH                  0"+"here");
             m_pCurrentPlayer.m_pInfo.m_bIsInRound = false;
             m_iWaitTime = 1;
         }
 
         private void DoChangeController()
         {
+            Debug.Log("HHHHHHHHHHHHHH                  1" + "here");
             if (!m_bIsInBattle)
             {
                 return;

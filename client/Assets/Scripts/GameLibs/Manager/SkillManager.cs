@@ -31,9 +31,7 @@ namespace TKGame {
 			Cure,     //治疗弹                  106
 			Teleport,   //瞬移   （纸飞机）       107
 		}
-		public static void _debug(string A) {
-			Debug.Log(A);
-		}
+		
 		void Start() {
 			GameGOW.Get().OnSkillPlay += Throw_Bomb;
 		}
@@ -202,7 +200,8 @@ namespace TKGame {
 		public void Throw_two_Bomb(CharacterLogic A, AttackBaseData AA) {
 			GameGOW.Get().BombMgr.ThrowBomb(A, AA as AttackBombData, true);
 			StartCoroutine(DelayBomb(A, AA, 0.2f));
-		}
+           
+        }
 		public void Throw_three_Bomb(CharacterLogic A, AttackBaseData AA) {
 			int temp = GameGOW.Get().BattleMgr.m_pCurrentPlayer.m_pInfo.m_iBombSpeed;
 
